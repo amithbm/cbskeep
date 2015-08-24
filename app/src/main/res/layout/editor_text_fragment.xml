@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingBottom="@dimen/list_details_list_item_bottom_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ex="http://schemas.android.com/apk/res-auto">
+    <com.google.android.keep.ui.CollaborativeEditText android:id="@id/edit_note_text" android:hint="@string/note_body_hint" ex:enableAutoBullets="true" style="@style/EditorListItemTextStyle" />
+</FrameLayout>

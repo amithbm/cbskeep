@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Por %d eventos</item>
+        <item quantity="one">Por %d evento</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">A cada %d dias</item>
+        <item quantity="one">A cada %d dia</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">A cada %d semanas</item>
+        <item quantity="one">A cada %d semana</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">A cada %d meses</item>
+        <item quantity="one">A cada %d mês</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">A cada %d anos</item>
+        <item quantity="one">A cada %d ano</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d vezes</item>
+        <item quantity="one">; uma vez</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">A cada %d dias</item>
+        <item quantity="one">Todos os dias</item>
+        <item quantity="two">A cada %d dias</item>
+        <item quantity="few">A cada %d dias</item>
+        <item quantity="many">A cada %d dias</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">a cada %d dias</item>
+        <item quantity="one">diária</item>
+        <item quantity="two">a cada %d dias</item>
+        <item quantity="few">a cada %d dias</item>
+        <item quantity="many">a cada %d dias</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">A cada %1$d semanas às/aos %2$s</item>
+        <item quantity="one">A cada %2$s</item>
+        <item quantity="two">A cada %1$d semanas às/aos %2$s</item>
+        <item quantity="few">A cada %1$d semanas às/aos %2$s</item>
+        <item quantity="many">A cada %1$d semanas às/aos %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">a cada %1$d semanas às/aos %2$s</item>
+        <item quantity="one">semanalmente às/aos %2$s</item>
+        <item quantity="two">a cada %1$d semanas às/aos %2$s</item>
+        <item quantity="few">a cada %1$d semanas às/aos %2$s</item>
+        <item quantity="many">a cada %1$d semanas às/aos %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">A cada %1$d meses</item>
+        <item quantity="one">Mensal</item>
+        <item quantity="two">A cada %1$d meses</item>
+        <item quantity="few">A cada %1$d meses</item>
+        <item quantity="many">A cada %1$d meses</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">a cada %1$d meses</item>
+        <item quantity="one">mensalmente</item>
+        <item quantity="two">a cada %1$d meses</item>
+        <item quantity="few">a cada %1$d meses</item>
+        <item quantity="many">a cada %1$d meses</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">A cada %1$d anos</item>
+        <item quantity="one">Anual</item>
+        <item quantity="two">A cada %1$d anos</item>
+        <item quantity="few">A cada %1$d anos</item>
+        <item quantity="many">A cada %1$d anos</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">a cada %1$d anos</item>
+        <item quantity="one">anualmente</item>
+        <item quantity="two">a cada %1$d anos</item>
+        <item quantity="few">a cada %1$d anos</item>
+        <item quantity="many">a cada %1$d anos</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">Mais %d</item>
+        <item quantity="one">Mais %d</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d arquivadas</item>
+        <item quantity="one">%d arquivadas</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d desarquivadas</item>
+        <item quantity="one">%d desarquivadas</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Excluir %d notas definitivamente?</item>
+        <item quantity="one">Excluir %d notas definitivamente?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d movidas para a lixeira</item>
+        <item quantity="one">%d movidas para a lixeira</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d restauradas</item>
+        <item quantity="one">%d restauradas</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d itens excluídos</item>
+        <item quantity="one">%d itens excluídos</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d itens restaurados</item>
+        <item quantity="one">%d itens restaurados</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">Mais %d</item>
+        <item quantity="one">Mais %d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d itens</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minutos</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundos</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d lembretes</item>
+        <item quantity="one">%d lembretes</item>
+    </plurals>
+</resources>

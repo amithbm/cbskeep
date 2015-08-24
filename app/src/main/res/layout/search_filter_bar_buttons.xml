@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/list_filter_button" android:layout_width="@dimen/filter_type_button_diameter" android:layout_height="@dimen/filter_type_button_diameter" android:src="@drawable/ic_material_list_dark" android:contentDescription="@string/filter_type_list_note_hint" style="@style/FilterBarButtonStyle" />
+    <ImageView android:id="@id/audio_filter_button" android:layout_width="@dimen/filter_type_button_diameter" android:layout_height="@dimen/filter_type_button_diameter" android:src="@drawable/ic_material_mic_dark" android:contentDescription="@string/filter_type_audio_note_hint" style="@style/FilterBarButtonStyle" />
+    <ImageView android:id="@id/photo_filter_button" android:layout_width="@dimen/filter_type_button_diameter" android:layout_height="@dimen/filter_type_button_diameter" android:src="@drawable/ic_material_camera_dark" android:contentDescription="@string/filter_type_photo_note_hint" style="@style/FilterBarButtonStyle" />
+    <ImageView android:id="@id/reminder_filter_button" android:layout_width="@dimen/filter_type_button_diameter" android:layout_height="@dimen/filter_type_button_diameter" android:src="@drawable/ic_material_reminder_finger_dark" android:contentDescription="@string/filter_type_reminder_note_hint" style="@style/FilterBarButtonStyle" />
+    <ImageView android:id="@id/shared_filter_button" android:layout_width="@dimen/filter_type_button_diameter" android:layout_height="@dimen/filter_type_button_diameter" android:src="@drawable/ic_material_sharing_person_dark" android:contentDescription="@string/filter_type_shared_note_hint" style="@style/FilterBarButtonStyle" />
+    <ImageView android:id="@id/color_filter_button" android:layout_width="@dimen/filter_type_button_diameter" android:layout_height="@dimen/filter_type_button_diameter" android:src="@drawable/ic_material_color_dark" android:contentDescription="@string/filter_type_color_hint" style="@style/FilterBarButtonStyle" />
+</merge>

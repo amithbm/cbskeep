@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">עבור %d אירועים</item>
+        <item quantity="one">עבור אירוע %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">כל יום %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">כל %d שבועות</item>
+        <item quantity="one">כל שבוע %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">כל %d חודשים</item>
+        <item quantity="one">כל חודש %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">כל %d שנים</item>
+        <item quantity="one">כל שנה %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d פעמים</item>
+        <item quantity="one">; פעם אחת</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">מדי יום</item>
+        <item quantity="two">כל %d ימים</item>
+        <item quantity="few">כל %d ימים</item>
+        <item quantity="many">כל %d ימים</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">יומי</item>
+        <item quantity="two">כל %d ימים</item>
+        <item quantity="few">כל %d ימים</item>
+        <item quantity="many">כל %d ימים</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">כל %1$d שבועות ב%2$s</item>
+        <item quantity="one">שבועי ב%2$s</item>
+        <item quantity="two">כל %1$d שבועות ב%2$s</item>
+        <item quantity="few">כל %1$d שבועות ב%2$s</item>
+        <item quantity="many">כל %1$d שבועות ב%2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">כל %1$d שבועות ב%2$s</item>
+        <item quantity="one">מדי שבוע ב%2$s</item>
+        <item quantity="two">כל %1$d שבועות ב%2$s</item>
+        <item quantity="few">כל %1$d שבועות ב%2$s</item>
+        <item quantity="many">כל %1$d שבועות ב%2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">כל %1$d חודשים</item>
+        <item quantity="one">חודשי</item>
+        <item quantity="two">כל %1$d חודשים</item>
+        <item quantity="few">כל %1$d חודשים</item>
+        <item quantity="many">כל %1$d חודשים</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">כל %1$d חודשים</item>
+        <item quantity="one">חודשי</item>
+        <item quantity="two">כל %1$d חודשים</item>
+        <item quantity="few">כל %1$d חודשים</item>
+        <item quantity="many">כל %1$d חודשים</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">כל %1$d שנים</item>
+        <item quantity="one">כל שנה</item>
+        <item quantity="two">כל %1$d שנים</item>
+        <item quantity="few">כל %1$d שנים</item>
+        <item quantity="many">כל %1$d שנים</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">כל %1$d שנים</item>
+        <item quantity="one">שנתי</item>
+        <item quantity="two">כל %1$d שנים</item>
+        <item quantity="few">כל %1$d שנים</item>
+        <item quantity="many">כל %1$d שנים</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">ועוד %d</item>
+        <item quantity="one">ועוד %d</item>
+        <item quantity="two">ועוד %d</item>
+        <item quantity="many">ועוד %d</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d הועברו לארכיון</item>
+        <item quantity="one">הערה אחת הועברה לארכיון</item>
+        <item quantity="two">%d הועברו לארכיון</item>
+        <item quantity="many">%d הועברו לארכיון</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d הוצאו מהארכיון</item>
+        <item quantity="one">הערה אחת הוצאה מהארכיון</item>
+        <item quantity="two">%d הוצאו מהארכיון</item>
+        <item quantity="many">%d הוצאו מהארכיון</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">האם למחוק %d הערות לצמיתות?</item>
+        <item quantity="one">האם למחוק הערה אחת לצמיתות?</item>
+        <item quantity="two">האם למחוק %d הערות לצמיתות?</item>
+        <item quantity="many">האם למחוק %d הערות לצמיתות?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d הועברו לאשפה</item>
+        <item quantity="one">הערה אחת הועברה לאשפה</item>
+        <item quantity="two">%d הועברו לאשפה</item>
+        <item quantity="many">%d הועברו לאשפה</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d שוחזרו</item>
+        <item quantity="one">הערה אחת שוחזרה</item>
+        <item quantity="two">%d שוחזרו</item>
+        <item quantity="many">%d שוחזרו</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d פריטים נמחקו</item>
+        <item quantity="one">פריט אחד נמחק</item>
+        <item quantity="two">%d פריטים נמחקו</item>
+        <item quantity="many">%d פריטים נמחקו</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d פריטים שוחזרו</item>
+        <item quantity="one">פריט אחד שוחזר</item>
+        <item quantity="two">%d פריטים שוחזרו</item>
+        <item quantity="many">%d פריטים שוחזרו</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">ועוד %d</item>
+        <item quantity="one">ועוד %d</item>
+        <item quantity="two">ועוד %d</item>
+        <item quantity="many">ועוד %d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d פריטים</item>
+        <item quantity="one">פריט %d</item>
+        <item quantity="two">%d פריטים</item>
+        <item quantity="many">%d פריטים</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">שנייה %d</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="many">%d שניות</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d תזכורות</item>
+        <item quantity="one">תזכורת %d</item>
+        <item quantity="two">%d תזכורות</item>
+        <item quantity="many">%d תזכורות</item>
+    </plurals>
+</resources>

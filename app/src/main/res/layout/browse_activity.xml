@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout android:id="@id/drawer_layout" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/browse_fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <include android:id="@id/quick_edit_layout" layout="@layout/quick_edit" style="@style/QebContainerStyle" />
+        <fragment android:name="com.google.android.keep.browse.FabFragment" android:id="@id/fab_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/editor_scrim" android:background="@color/scrim_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/editor_fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/share_fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/label_editor_fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/conflict_resolution_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ImageView android:id="@id/expand_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <fragment android:name="com.google.android.keep.toasts.ToastsFragment" android:id="@id/toasts_fragment" style="@style/ToastFragmentStyle" />
+    </FrameLayout>
+    <fragment android:name="com.google.android.keep.browse.DrawerFragment" android:id="@id/drawer_fragment" android:layout_width="@dimen/drawer_width" android:layout_height="fill_parent" style="@style/DrawerFragmentStyle" />
+</android.support.v4.widget.DrawerLayout>

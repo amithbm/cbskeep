@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:background="@drawable/ic_avatar_shadow" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_centerVertical="true">
+        <com.google.android.keep.ui.CircularImageView android:id="@id/sharee_avatar" android:src="@drawable/ic_sharing_avatar_small" style="@style/ShareActivityShareeAvatar" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/valid_sharing_entry" android:padding="8.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="8.0">
+        <TextView android:id="@id/sharee_name" style="@style/ShareActivityShareeName" />
+        <TextView android:id="@id/sharee_email" style="@style/ShareActivityShareeEmail" />
+    </LinearLayout>
+    <ViewStub android:id="@id/invalid_sharing_entry" android:padding="8.0dip" android:visibility="gone" android:layout="@layout/sharee_invalid" android:inflatedId="@id/invalid_sharing_entry_inflated" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="8.0" />
+    <ImageView android:id="@id/delete" android:layout_width="0.0dip" android:src="@drawable/ic_material_delete_dark" android:layout_weight="1.0" style="@style/ShareActivityDeleteSharee" />
+</LinearLayout>

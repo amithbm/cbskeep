@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>రోజూ పునరావృతం చేయి</item>
+        <item>ప్రతివారం మళ్లీ చేయి</item>
+        <item>ప్రతినెల మళ్లీ చేయి</item>
+        <item>ఏటేటా పునరావృతం చేయి</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>పునరావృతం కాదు</item>
+        <item>ప్రతి రోజు</item>
+        <item>ప్రతి వారం</item>
+        <item>ప్రతి నెల</item>
+        <item>ప్రతి సంవత్సరం</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ప్రతి మొదటి ఆదివారం నాడు</item>
+        <item>ప్రతి రెండవ ఆదివారం నాడు</item>
+        <item>ప్రతి మూడవ ఆదివారం నాడు</item>
+        <item>ప్రతి నాల్గవ ఆదివారం నాడు</item>
+        <item>ప్రతి చివరి ఆదివారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ప్రతి మొదటి సోమవారం నాడు</item>
+        <item>ప్రతి రెండవ సోమవారం నాడు</item>
+        <item>ప్రతి మూడవ సోమవారం నాడు</item>
+        <item>ప్రతి నాల్గవ సోమవారం నాడు</item>
+        <item>ప్రతి చివరి సోమవారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ప్రతి మొదటి మంగళవారం నాడు</item>
+        <item>ప్రతి రెండవ మంగళవారం నాడు</item>
+        <item>ప్రతి మూడవ మంగళవారం నాడు</item>
+        <item>ప్రతి నాల్గవ మంగళవారం నాడు</item>
+        <item>ప్రతి చివరి మంగళవారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ప్రతి మొదటి బుధవారం నాడు</item>
+        <item>ప్రతి రెండవ బుధవారం నాడు</item>
+        <item>ప్రతి మూడవ బుధవారం నాడు</item>
+        <item>ప్రతి నాల్గవ బుధవారం నాడు</item>
+        <item>ప్రతి చివరి బుధవారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ప్రతి మొదటి గురువారం నాడు</item>
+        <item>ప్రతి రెండవ గురువారం నాడు</item>
+        <item>ప్రతి మూడవ గురువారం నాడు</item>
+        <item>ప్రతి నాల్గవ గురువారం నాడు</item>
+        <item>ప్రతి చివరి గురువారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ప్రతి మొదటి శుక్రవారం నాడు</item>
+        <item>ప్రతి రెండవ శుక్రవారం నాడు</item>
+        <item>ప్రతి మూడవ శుక్రవారం నాడు</item>
+        <item>ప్రతి నాల్గవ శుక్రవారం నాడు</item>
+        <item>ప్రతి చివరి శుక్రవారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ప్రతి మొదటి శనివారం నాడు</item>
+        <item>ప్రతి రెండవ శనివారం నాడు</item>
+        <item>ప్రతి మూడవ శనివారం నాడు</item>
+        <item>ప్రతి నాల్గవ శనివారం నాడు</item>
+        <item>ప్రతి చివరి శనివారం నాడు</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ఆస్ట్రేలియన్ సెంట్రల్ - NT</item>
+        <item>ఆస్ట్రేలియన్ సెంట్రల్ - SA</item>
+        <item>ఆస్ట్రేలియన్ ఈస్ట్రన్ - QLD</item>
+        <item>ఆస్ట్రేలియన్ ఈస్ట్రన్ - NSW</item>
+        <item>మౌంటెయిన్ స్టాండర్డ్ - డాసన్ క్రీక్</item>
+        <item>సెంట్రల్ స్టాండర్డ్ - సస్కాచ్‌వెన్</item>
+        <item>ఈస్ట్రన్ స్టాండర్డ్ - అటికొకన్</item>
+        <item>అట్లాంటిక్ స్టాండర్డ్ - క్యుబెక్</item>
+        <item>హవాయి-అలుషియన్ - హవాయి</item>
+        <item>హవాయి-అలుషియన్ - అలాస్కా</item>
+        <item>పసిఫిక్ స్టాండర్డ్ - మెట్లకట్ల</item>
+        <item>మౌంటెయిన్ స్టాండర్డ్ - అరిజోనా</item>
+        <item>పసిఫిక్ - బాజా కాలిఫోర్నియా</item>
+        <item>మౌంటెయిన్ - చువావా</item>
+        <item>సెంట్రల్ - తమాలిపస్</item>
+        <item>మౌంటెయిన్ - సొనొర</item>
+        <item>తూర్పు ఆఫ్రికా సమయం</item>
+        <item>అట్లాంటిక్ ప్రామాణిక సమయం</item>
+        <item>అట్లాంటిక్ ప్రామాణిక సమయం</item>
+        <item>తూర్పు యూరోపియన్ సమయం</item>
+        <item>కలినిన్‌గ్రాడ్ సమయం</item>
+        <item>అమెజాన్ - రాండోనియా</item>
+        <item>బ్రెసిలియా - పారా</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>సెయింట్ మార్టెన్</item>
+        <item>కరీబియన్ నెదర్లాండ్స్</item>
+        <item>క్యూరసావ్</item>
+        <item>దక్షిణ సూడాన్</item>
+    </string-array>
+    <string-array name="note_color_palette_descriptions">
+        <item>తెలుపు రంగు</item>
+        <item>ఎరుపు రంగు</item>
+        <item>నారింజ రంగు</item>
+        <item>పసుపు రంగు</item>
+        <item>ఆకుపచ్చ రంగు</item>
+        <item>నీలి ఆకుపచ్చ రంగు</item>
+        <item>నీలం రంగు</item>
+        <item>బూడిద రంగు</item>
+    </string-array>
+</resources>

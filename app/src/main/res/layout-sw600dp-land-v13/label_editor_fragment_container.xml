@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/LeftSpacerView" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/editor_activity_side_space_percentage" />
+    <FrameLayout android:background="@drawable/modal_dropshadow_tab" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/editor_activity_width_percentage">
+        <include layout="@layout/label_editor_fragment" />
+    </FrameLayout>
+    <View android:id="@id/RightSpacerView" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/editor_activity_side_space_percentage" />
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="note_color_palette_descriptions">
+        <item>e bardhë</item>
+        <item>e kuqe</item>
+        <item>portokalli</item>
+        <item>e verdhë</item>
+        <item>E gjelbër</item>
+        <item>gurkali</item>
+        <item>e kaltër</item>
+        <item>gri</item>
+    </string-array>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_more">
+        <item quantity="other">+%d مزید</item>
+        <item quantity="one">+%d مزید</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d آرکائیو ہو گئے</item>
+        <item quantity="one">نوٹ آرکائیو ہو گیا</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d آرکائیو سے نکال دیے گئے</item>
+        <item quantity="one">نوٹ آرکائیو سے نکال دیا گیا</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d نوٹس ہمیشہ کیلئے حذف کریں؟</item>
+        <item quantity="one">نوٹ ہمیشہ کیلئے حذف کریں؟</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d کوڑے میں منتقل ہو گئے</item>
+        <item quantity="one">نوٹ کوڑے میں منتقل ہو گیا</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d بحال ہو گئے</item>
+        <item quantity="one">نوٹ بحال ہو گیا</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d آئٹمز حذف ہو گئے</item>
+        <item quantity="one">آئٹم حذف ہو گیا</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d آئٹمز بحال ہو گئے</item>
+        <item quantity="one">آئٹم بحال ہو گیا</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d مزید</item>
+        <item quantity="one">ۤۤۤۤۤۤٓٓٓٓٓٓٓۤۤۤۤ+%d مزید</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d آئٹمز</item>
+        <item quantity="one">%d آئٹم</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d منٹ</item>
+        <item quantity="one">%d منٹ</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d سیکنڈ</item>
+        <item quantity="one">%d سیکنڈ</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d یاد دہانیاں</item>
+        <item quantity="one">%d یاد دہانی</item>
+    </plurals>
+</resources>

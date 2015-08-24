@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_more">
+        <item quantity="other">+%d વધુ</item>
+        <item quantity="one">+%d વધુ</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d નોંધ આર્કાઇવ કરી</item>
+        <item quantity="one">%d નોંધ આર્કાઇવ કરી</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d અનઆર્કાઇવ કરી</item>
+        <item quantity="one">%d અનઆર્કાઇવ કરી</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d નોંધ હંમેશા માટે કાઢી નાખીએ?</item>
+        <item quantity="one">%d નોંધ હંમેશા માટે કાઢી નાખીએ?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d ટ્રેશમાં ખસેડી</item>
+        <item quantity="one">%d ટ્રેશમાં ખસેડી</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d પુનઃસ્થાપિત કરી</item>
+        <item quantity="one">%d પુનઃસ્થાપિત કરી</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d આઇટમ્સ કાઢી નાખી</item>
+        <item quantity="one">%d આઇટમ્સ કાઢી નાખી</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d આઇટમ્સ પુનઃસ્થાપિત કરી</item>
+        <item quantity="one">%d આઇટમ્સ પુનઃસ્થાપિત કરી</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d વધુ</item>
+        <item quantity="one">+%d વધુ</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d આઇટમ્સ</item>
+        <item quantity="one">%d આઇટમ્સ</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d મિનિટ</item>
+        <item quantity="one">%d મિનિટ</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d સેકંડ</item>
+        <item quantity="one">%d સેકંડ</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d સ્મૃતિપત્ર</item>
+        <item quantity="one">%d સ્મૃતિપત્ર</item>
+    </plurals>
+</resources>

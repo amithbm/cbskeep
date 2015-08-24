@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>दैनिक दोहोर्‍याऊ</item>
+        <item>हप्तै पिच्छे दोहोर्‍याऊ</item>
+        <item>मासिक दोहोर्‍याऊ</item>
+        <item>वार्षिक रूपमा दोहोर्‍याऊ</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>दोहोरिँदैन</item>
+        <item>प्रत्येक दिन</item>
+        <item>प्रत्येक हप्ता</item>
+        <item>प्रत्येक महिना</item>
+        <item>प्रत्येक वर्ष</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>प्रत्येक पहिलो आइतबारमा</item>
+        <item>प्रत्येक दोस्रो आइतबारमा</item>
+        <item>प्रत्येक तेस्रो आइतबारमा</item>
+        <item>प्रत्येक चौथो आइतबारमा</item>
+        <item>प्रत्येक अन्तिम आइतबारमा</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>प्रत्येक पहिलो सोमबारमा</item>
+        <item>प्रत्येक दोस्रो सोमबारमा</item>
+        <item>प्रत्येक तेस्रो सोमबारमा</item>
+        <item>प्रत्येक चौंथो सोमबारमा</item>
+        <item>प्रत्येक अन्तिम सोमबारमा</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>प्रत्येक पहिलो मङ्गलबारमा</item>
+        <item>प्रत्येक दोस्रो मङ्गलबारमा</item>
+        <item>प्रत्येक तेस्रो मङ्गलबारमा</item>
+        <item>प्रत्येक चौथो मङ्गलबारमा</item>
+        <item>प्रत्येक अन्तिम मङ्गलबारमा</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>प्रत्येक पहिलो बुधबारमा</item>
+        <item>प्रत्येक दोस्रो बुधबारमा</item>
+        <item>प्रत्येक तेस्रो बुधबारमा</item>
+        <item>प्रत्येक चौथो बुधबारमा</item>
+        <item>प्रत्येक अन्तिम बुधबारमा</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>प्रत्येक पहिलो बिहिबारमा</item>
+        <item>प्रत्येक दोस्रो बिहिबारमा</item>
+        <item>प्रत्येक तेस्रो बिहिबारमा</item>
+        <item>प्रत्येक चौथो बिहिबारमा</item>
+        <item>प्रत्येक अन्तिम बिहिबारमा</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>प्रत्येक पहिलो शुक्रबारमा</item>
+        <item>प्रत्येक दोस्रो शुक्रबारमा</item>
+        <item>प्रत्येक तेस्रो शुक्रबारमा</item>
+        <item>प्रत्येक चौथो शुक्रबारमा</item>
+        <item>प्रत्येक अन्तिम शुक्रबारमा</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>प्रत्येक पहिलो सोमबारमा</item>
+        <item>प्रत्येक दोस्रो शनिबारमा</item>
+        <item>प्रत्येक तेस्रो शनिबारमा</item>
+        <item>प्रत्येक चौथो शनिबारमा</item>
+        <item>प्रत्येक अन्तिम शनिबारमा</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>अस्ट्रेलियन केन्द्रिय - NT</item>
+        <item>अस्ट्रेलियन केन्द्रिय - SA</item>
+        <item>अस्ट्रेलियन पूर्वी - QLD</item>
+        <item>अस्ट्रेलियन पूर्वी - NSW</item>
+        <item>पर्वतीय मानक - डव्सन क्रीक</item>
+        <item>केन्द्रीय मानक - सस्कत्चेवान</item>
+        <item>पूर्वी मानक - अतिकोकान</item>
+        <item>अटलान्टिक मानक - क्यूबेक</item>
+        <item>हवाई-एलेउटियन - हवाई</item>
+        <item>हवाई-एलेउटियन - अलास्का</item>
+        <item>प्रशान्त मानक - मेलाक्टला</item>
+        <item>पर्वतीय मानक - एरिजोना</item>
+        <item>प्रशान्त - बाजा कैलिफोर्निया</item>
+        <item>पर्वतीय - चिहुआहुआ</item>
+        <item>केन्द्रिय - टमौलिपास</item>
+        <item>पर्वत - सोनोरा</item>
+        <item>पूर्वी अफ्रीका समय</item>
+        <item>अट्लान्टिक मानक समय</item>
+        <item>अट्लान्टिक मानक समय</item>
+        <item>पूर्वी यूरोपीय समय</item>
+        <item>कलिनिन्ग्राद समय</item>
+        <item>अमेजन - रोन्डोनियाँ</item>
+        <item>ब्रासीलिया - पैरा</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>सिन्ट मार्टिन</item>
+        <item>क्यारेबियन नेदरल्यान्ड्स</item>
+        <item>कुराकाओ</item>
+        <item>दक्षिण सुडान</item>
+    </string-array>
+    <string-array name="note_color_palette_descriptions">
+        <item>सेतो</item>
+        <item>रातो</item>
+        <item>सुन्तला रङ</item>
+        <item>पहेंलो</item>
+        <item>हरियो</item>
+        <item>टिल</item>
+        <item>नीलो</item>
+        <item>खरानी रंग</item>
+    </string-array>
+</resources>

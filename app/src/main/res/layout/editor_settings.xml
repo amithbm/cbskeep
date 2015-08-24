@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:orientation="vertical" android:paddingTop="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minWidth="300.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="20.0sp" android:textColor="@color/primary_text_color" android:paddingLeft="@dimen/list_settings_side_padding" android:paddingRight="@dimen/list_settings_side_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/list_settings_title" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip">
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/list_settings_new_list_item_position_title" style="@style/EditorSettingsTitleTextStyle" />
+            <RadioGroup android:orientation="vertical" android:paddingLeft="@dimen/list_settings_side_padding" android:paddingRight="@dimen/list_settings_side_padding" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RadioButton android:id="@id/new_list_item_top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/list_settings_new_list_item_top" style="@style/EditorSettingsTextStyle" />
+                <RadioButton android:id="@id/new_list_item_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/list_settings_new_list_item_bottom" style="@style/EditorSettingsTextStyle" />
+            </RadioGroup>
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/list_settings_checked_items_policy_title" style="@style/EditorSettingsTitleTextStyle" />
+            <RadioGroup android:orientation="vertical" android:paddingLeft="@dimen/list_settings_side_padding" android:paddingRight="@dimen/list_settings_side_padding" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RadioButton android:id="@id/checked_items_stay_in_place" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/list_settings_checked_items_stay_in_place" style="@style/EditorSettingsTextStyle" />
+                <RadioButton android:id="@id/checked_items_move_to_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/list_settings_checked_items_move_to_bottom" style="@style/EditorSettingsTextStyle" />
+            </RadioGroup>
+            <CheckBox android:id="@id/apply_to_new_lists" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_settings_side_padding" android:layout_marginRight="@dimen/list_settings_side_padding" android:layout_marginBottom="4.0dip" android:checked="true" android:minHeight="@dimen/list_settings_item_min_height" android:text="@string/list_settings_apply_to_new_lists" style="@style/EditorSettingsTextStyle" />
+            <Button android:gravity="center" android:id="@id/ok" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@android:string/ok" style="@style/EditorSettingsTextStyle" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

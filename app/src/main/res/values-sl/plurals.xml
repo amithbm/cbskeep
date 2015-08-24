@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Za toliko dogodkov: %d</item>
+        <item quantity="one">Za %d dogodek</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Vsak %d. dan</item>
+        <item quantity="one">Vsak %d. dan</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Vsak %d. teden</item>
+        <item quantity="one">Vsak %d. teden</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Vsak %d. mesec</item>
+        <item quantity="one">Vsak %d. mesec</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Vsako %d. leto</item>
+        <item quantity="one">Vsako %d. leto</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">– tolikokrat: %d</item>
+        <item quantity="one">– enkrat</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Vsak %d. dan</item>
+        <item quantity="one">Dnevno</item>
+        <item quantity="two">Vsak %d. dan</item>
+        <item quantity="few">Vsak %d. dan</item>
+        <item quantity="many">Vsak %d. dan</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">vsak %d. dan</item>
+        <item quantity="one">dnevno</item>
+        <item quantity="two">vsak %d. dan</item>
+        <item quantity="few">vsak %d. dan</item>
+        <item quantity="many">vsak %d. dan</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Vsak %1$d. teden v %2$s</item>
+        <item quantity="one">Tedensko, v %2$s</item>
+        <item quantity="two">Vsak %1$d. teden v %2$s</item>
+        <item quantity="few">Vsak %1$d. teden v %2$s</item>
+        <item quantity="many">Vsak %1$d. teden v %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">vsak %1$d. teden v %2$s</item>
+        <item quantity="one">tedensko, v %2$s</item>
+        <item quantity="two">vsak %1$d. teden v %2$s</item>
+        <item quantity="few">vsak %1$d. teden v %2$s</item>
+        <item quantity="many">vsak %1$d. teden v %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Vsak %1$d. mesec</item>
+        <item quantity="one">Mesečno</item>
+        <item quantity="two">Vsak %1$d. mesec</item>
+        <item quantity="few">Vsak %1$d. mesec</item>
+        <item quantity="many">Vsak %1$d. mesec</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">vsak %1$d. mesec</item>
+        <item quantity="one">mesečno</item>
+        <item quantity="two">vsak %1$d. mesec</item>
+        <item quantity="few">vsak %1$d. mesec</item>
+        <item quantity="many">vsak %1$d. mesec</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Vsako %1$d. leto</item>
+        <item quantity="one">Letno</item>
+        <item quantity="two">Vsako %1$d. leto</item>
+        <item quantity="few">Vsako %1$d. leto</item>
+        <item quantity="many">Vsako %1$d. leto</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">vsako %1$d. leto</item>
+        <item quantity="one">letno</item>
+        <item quantity="two">vsako %1$d. leto</item>
+        <item quantity="few">vsako %1$d. leto</item>
+        <item quantity="many">vsako %1$d. leto</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">in še %d</item>
+        <item quantity="one">in še %d</item>
+        <item quantity="two">in še %d</item>
+        <item quantity="few">in še %d</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d arhiviranih</item>
+        <item quantity="one">%d arhiviran</item>
+        <item quantity="two">%d arhivirana</item>
+        <item quantity="few">%d arhivirani</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d povrnjenih iz arhiva</item>
+        <item quantity="one">%d povrnjen iz arhiva</item>
+        <item quantity="two">%d povrnjena iz arhiva</item>
+        <item quantity="few">%d povrnjeni iz arhiva</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Želite dokončno izbrisati %d zapiskov?</item>
+        <item quantity="one">Želite dokončno izbrisati %d zapisek?</item>
+        <item quantity="two">Želite dokončno izbrisati %d zapiska?</item>
+        <item quantity="few">Želite dokončno izbrisati %d zapiske?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d v smetnjaku</item>
+        <item quantity="one">%d v smetnjaku</item>
+        <item quantity="two">%d v smetnjaku</item>
+        <item quantity="few">%d v smetnjaku</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d obnovljenih</item>
+        <item quantity="one">%d obnovljen</item>
+        <item quantity="two">%d obnovljena</item>
+        <item quantity="few">%d obnovljeni</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d izdelkov izbrisanih</item>
+        <item quantity="one">%d izdelek izbrisan</item>
+        <item quantity="two">%d izdelka izbrisana</item>
+        <item quantity="few">%d izdelki izbrisani</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d elementov obnovljenih</item>
+        <item quantity="one">%d element obnovljen</item>
+        <item quantity="two">%d elementa obnovljena</item>
+        <item quantity="few">%d elementi obnovljeni</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">in še %d</item>
+        <item quantity="one">in še %d</item>
+        <item quantity="two">in še %d</item>
+        <item quantity="few">in še %d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d elementov</item>
+        <item quantity="one">%d element</item>
+        <item quantity="two">%d elementa</item>
+        <item quantity="few">%d elementi</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="two">%d minuti</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="two">%d sekundi</item>
+        <item quantity="few">%d sekunde</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d opomnikov</item>
+        <item quantity="one">%d opomnik</item>
+        <item quantity="two">%d opomnika</item>
+        <item quantity="few">%d opomniki</item>
+    </plurals>
+</resources>

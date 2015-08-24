@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">重复%d次</item>
+        <item quantity="one">重复%d次</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">每%d天</item>
+        <item quantity="one">每%d天</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">每%d周</item>
+        <item quantity="one">每%d周</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">每%d个月</item>
+        <item quantity="one">每%d个月</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">每%d年</item>
+        <item quantity="one">每%d年</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">；%d次</item>
+        <item quantity="one">；1次</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">每%d天</item>
+        <item quantity="one">每天</item>
+        <item quantity="two">每%d天</item>
+        <item quantity="few">每%d天</item>
+        <item quantity="many">每%d天</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">每%d天</item>
+        <item quantity="one">每天</item>
+        <item quantity="two">每%d天</item>
+        <item quantity="few">每%d天</item>
+        <item quantity="many">每%d天</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">每%1$d周的%2$s</item>
+        <item quantity="one">每周的%2$s</item>
+        <item quantity="two">每%1$d周的%2$s</item>
+        <item quantity="few">每%1$d周的%2$s</item>
+        <item quantity="many">每%1$d周的%2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">每%1$d周的%2$s</item>
+        <item quantity="one">每周的%2$s</item>
+        <item quantity="two">每%1$d周的%2$s</item>
+        <item quantity="few">每%1$d周的%2$s</item>
+        <item quantity="many">每%1$d周的%2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">每%1$d个月</item>
+        <item quantity="one">每月</item>
+        <item quantity="two">每%1$d个月</item>
+        <item quantity="few">每%1$d个月</item>
+        <item quantity="many">每%1$d个月</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">每%1$d个月</item>
+        <item quantity="one">每月</item>
+        <item quantity="two">每%1$d个月</item>
+        <item quantity="few">每%1$d个月</item>
+        <item quantity="many">每%1$d个月</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">每%1$d年</item>
+        <item quantity="one">每年</item>
+        <item quantity="two">每%1$d年</item>
+        <item quantity="few">每%1$d年</item>
+        <item quantity="many">每%1$d年</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">每%1$d年</item>
+        <item quantity="one">每年</item>
+        <item quantity="two">每%1$d年</item>
+        <item quantity="few">每%1$d年</item>
+        <item quantity="many">每%1$d年</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">+ 另外 %d 张</item>
+        <item quantity="one">+ 另外 %d 张</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">已将 %d 条记事归档</item>
+        <item quantity="one">已将该记事归档</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">已将 %d 条记事取消归档</item>
+        <item quantity="one">已将该记事取消归档</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">要永久删除这 %d 条记事吗？</item>
+        <item quantity="one">要永久删除这条记事吗？</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">已将 %d 条记事移到回收站</item>
+        <item quantity="one">已将该记事移到回收站</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">已还原 %d 条记事</item>
+        <item quantity="one">已还原该记事</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">已删除 %d 个清单项</item>
+        <item quantity="one">已删除该清单项</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">已还原 %d 个清单项</item>
+        <item quantity="one">已还原该清单项</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+ 另外 %d 项</item>
+        <item quantity="one">+ 另外 %d 项</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d 个清单项</item>
+        <item quantity="one">%d 个清单项</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d 分钟</item>
+        <item quantity="one">%d 分钟</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d 秒</item>
+        <item quantity="one">%d 秒</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d 条提醒</item>
+        <item quantity="one">%d 条提醒</item>
+    </plurals>
+</resources>

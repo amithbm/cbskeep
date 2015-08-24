@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="full_width_toast">false</bool>
+    <bool name="scroll_browse_header">false</bool>
+</resources>

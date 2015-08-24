@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/fab_menu" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Fab.Menu">
+        <ImageView android:id="@id/option_voice" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_material_mic_dark" android:contentDescription="@string/menu_new_recording" style="@style/Fab.Menu.Item" />
+        <ImageView android:id="@id/option_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_material_camera_dark" android:contentDescription="@string/menu_new_picture" style="@style/Fab.Menu.Item" />
+        <ImageView android:id="@id/option_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_material_list_dark" android:contentDescription="@string/menu_new_list" style="@style/Fab.Menu.Item" />
+        <ImageView android:id="@id/option_note" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="0.0dip" android:src="@drawable/ic_material_note_dark" android:contentDescription="@string/menu_new_note" style="@style/Fab.Menu.Item" />
+        <android.support.design.widget.FloatingActionButton android:theme="@style/FabTheme" android:id="@id/fab" android:focusable="true" android:focusableInTouchMode="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="16.0dip" android:src="@drawable/ic_fab_add" android:minWidth="@dimen/fab_circle_size" android:contentDescription="@string/fab_expand_content_description" />
+    </LinearLayout>
+</FrameLayout>

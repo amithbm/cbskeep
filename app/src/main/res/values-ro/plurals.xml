@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Pentru %d (de) evenimente</item>
+        <item quantity="one">Pentru %d eveniment</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">O dată la %d (de) zile</item>
+        <item quantity="one">O dată la %d zi</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">O dată la %d (de) săptămâni</item>
+        <item quantity="one">O dată la %d săptămână</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">O dată la %d (de) luni</item>
+        <item quantity="one">O dată la %d lună</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">O dată la %d (de) ani</item>
+        <item quantity="one">O dată la %d an</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; de %d (de) ori</item>
+        <item quantity="one">; o dată</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">O dată la %d de zile</item>
+        <item quantity="one">Zilnic</item>
+        <item quantity="two">O dată la %d zile</item>
+        <item quantity="few">O dată la %d zile</item>
+        <item quantity="many">O dată la %d (de) zile</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">o dată la %d de zile</item>
+        <item quantity="one">zilnic</item>
+        <item quantity="two">o dată la %d zile</item>
+        <item quantity="few">o dată la %d zile</item>
+        <item quantity="many">o dată la %d (de) zile</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">O dată la %1$d de săptămâni, %2$s</item>
+        <item quantity="one">Săptămânal, %2$s</item>
+        <item quantity="two">O dată la %1$d săptămâni, %2$s</item>
+        <item quantity="few">O dată la %1$d săptămâni, %2$s</item>
+        <item quantity="many">O dată la %1$d (de) săptămâni, %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">o dată la %1$d de săptămâni, %2$s</item>
+        <item quantity="one">săptămânal, %2$s</item>
+        <item quantity="two">o dată la %1$d săptămâni, %2$s</item>
+        <item quantity="few">o dată la %1$d săptămâni, %2$s</item>
+        <item quantity="many">o dată la %1$d (de) săptămâni, %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">O dată la %1$d de luni</item>
+        <item quantity="one">Lunar</item>
+        <item quantity="two">O dată la %1$d luni</item>
+        <item quantity="few">O dată la %1$d luni</item>
+        <item quantity="many">O dată la %1$d (de) luni</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">o dată la %1$d de luni</item>
+        <item quantity="one">lunar</item>
+        <item quantity="two">o dată la %1$d luni</item>
+        <item quantity="few">o dată la %1$d luni</item>
+        <item quantity="many">o dată la %1$d (de) luni</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">O dată la %1$d de ani</item>
+        <item quantity="one">Anual</item>
+        <item quantity="two">O dată la %1$d ani</item>
+        <item quantity="few">O dată la %1$d ani</item>
+        <item quantity="many">O dată la %1$d (de) ani</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">o dată la %1$d de ani</item>
+        <item quantity="one">anual</item>
+        <item quantity="two">o dată la %1$d ani</item>
+        <item quantity="few">o dată la %1$d ani</item>
+        <item quantity="many">o dată la %1$d (de) ani</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">+ încă %d</item>
+        <item quantity="one">+ încă %d</item>
+        <item quantity="few">+ încă %d</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d arhivate</item>
+        <item quantity="one">Notă arhivată</item>
+        <item quantity="few">%d arhivate</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d dezarhivate</item>
+        <item quantity="one">Notă dezarhivată</item>
+        <item quantity="few">%d dezarhivate</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Ștergeți %d de note definitiv?</item>
+        <item quantity="one">Ștergeți definitiv nota?</item>
+        <item quantity="few">Ștergeți %d note definitiv?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d mutate în coșul de gunoi</item>
+        <item quantity="one">Notă mutată în coșul de gunoi</item>
+        <item quantity="few">%d mutate în coșul de gunoi</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d restabilite</item>
+        <item quantity="one">Notă restabilită</item>
+        <item quantity="few">%d restabilite</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d de elemente șterse</item>
+        <item quantity="one">Element șters</item>
+        <item quantity="few">%d elemente șterse</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d de elemente restabilite</item>
+        <item quantity="one">Element restabilit</item>
+        <item quantity="few">%d elemente restabilite</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+ încă %d</item>
+        <item quantity="one">+ încă %d</item>
+        <item quantity="few">+ încă %d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d de elemente</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elemente</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d de minute</item>
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d de secunde</item>
+        <item quantity="one">%d secundă</item>
+        <item quantity="few">%d secunde</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d de mementouri</item>
+        <item quantity="one">%d memento</item>
+        <item quantity="few">%d mementouri</item>
+    </plurals>
+</resources>

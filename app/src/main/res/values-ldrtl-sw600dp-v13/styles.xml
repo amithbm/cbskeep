@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FilterBarQueryFrame">
+        <item name="android:layout_toLeftOf">@id/search_actionbar_back_button</item>
+        <item name="android:layout_toRightOf">@id/filter_controls</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="QebContainerStyle">
+        <item name="android:layout_gravity">bottom|center|left</item>
+        <item name="android:layout_width">@dimen/qeb_tablet_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">24.0dip</item>
+        <item name="android:layout_marginBottom">24.0dip</item>
+    </style>
+    <style name="Qeb">
+        <item name="android:background">@drawable/qeb_shadow</item>
+        <item name="android:paddingLeft">@dimen/qeb_padding_end</item>
+        <item name="android:paddingRight">@dimen/qeb_padding_start</item>
+    </style>
+    <style name="FilterBarFilterFrame">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+</resources>

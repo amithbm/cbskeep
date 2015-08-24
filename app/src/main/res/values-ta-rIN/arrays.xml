@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>தினமும் நினைவுபடுத்து</item>
+        <item>வாரந்தோறும் நினைவுபடுத்து</item>
+        <item>மாதந்தோறும் நினைவுபடுத்து</item>
+        <item>ஆண்டுதோறும் நினைவுபடுத்து</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>நினைவுபடுத்த வேண்டாம்</item>
+        <item>ஒவ்வொரு நாளும்</item>
+        <item>ஒவ்வொரு வாரமும்</item>
+        <item>ஒவ்வொரு மாதமும்</item>
+        <item>ஒவ்வொரு ஆண்டும்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ஒவ்வொரு முதல் ஞாயிறு</item>
+        <item>ஒவ்வொரு இரண்டாவது ஞாயிறு</item>
+        <item>ஒவ்வொரு மூன்றாவது ஞாயிறு</item>
+        <item>ஒவ்வொரு நான்காவது ஞாயிறு</item>
+        <item>ஒவ்வொரு கடைசி ஞாயிறு</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ஒவ்வொரு முதல் திங்கள்</item>
+        <item>ஒவ்வொரு இரண்டாவது திங்கள்</item>
+        <item>ஒவ்வொரு மூன்றாவது திங்கள்</item>
+        <item>ஒவ்வொரு நான்காவது திங்கள்</item>
+        <item>ஒவ்வொரு கடைசி திங்கள்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ஒவ்வொரு முதல் செவ்வாய்</item>
+        <item>ஒவ்வொரு இரண்டாவது செவ்வாய்</item>
+        <item>ஒவ்வொரு மூன்றாவது செவ்வாய்</item>
+        <item>ஒவ்வொரு நான்காவது செவ்வாய்</item>
+        <item>ஒவ்வொரு கடைசி செவ்வாய்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ஒவ்வொரு முதல் புதன்</item>
+        <item>ஒவ்வொரு இரண்டாவது புதன்</item>
+        <item>ஒவ்வொரு மூன்றாவது புதன்</item>
+        <item>ஒவ்வொரு நான்காவது புதன்</item>
+        <item>ஒவ்வொரு கடைசி புதன்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ஒவ்வொரு முதல் வியாழன்</item>
+        <item>ஒவ்வொரு இரண்டாவது வியாழன்</item>
+        <item>ஒவ்வொரு மூன்றாவது வியாழன்</item>
+        <item>ஒவ்வொரு நான்காவது வியாழன்</item>
+        <item>ஒவ்வொரு கடைசி வியாழன்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ஒவ்வொரு முதல் வெள்ளி</item>
+        <item>ஒவ்வொரு இரண்டாவது வெள்ளி</item>
+        <item>ஒவ்வொரு மூன்றாவது வெள்ளி</item>
+        <item>ஒவ்வொரு நான்காவது வெள்ளி</item>
+        <item>ஒவ்வொரு கடைசி வெள்ளி</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ஒவ்வொரு முதல் சனி</item>
+        <item>ஒவ்வொரு இரண்டாவது சனி</item>
+        <item>ஒவ்வொரு மூன்றாவது சனி</item>
+        <item>ஒவ்வொரு நான்காவது சனி</item>
+        <item>ஒவ்வொரு கடைசி சனி</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ஆஸ்திரேலியன் மத்திய நேரம் - NT</item>
+        <item>ஆஸ்திரேலியன் மத்திய நேரம் - SA</item>
+        <item>ஆஸ்திரேலியன் ஈஸ்டர்ன் நேரம் - QLD</item>
+        <item>ஆஸ்திரேலியன் ஈஸ்டர்ன் நேரம் - NSW</item>
+        <item>மவுண்டன் தர நேரம் - டாவ்சன் கிரீக்</item>
+        <item>சென்ட்ரல் தர நேரம் - சாஸ்கட்சுவான்</item>
+        <item>ஈஸ்டர்ன் தர நேரம் - அட்டிகோகன்</item>
+        <item>அட்லாண்டிக் தர நேரம் - கியூபெக்</item>
+        <item>ஹவாய் அலெசுயன் நேரம் - ஹவாய்</item>
+        <item>ஹவாய் அலெசுயன் - அலாஸ்கா</item>
+        <item>பசிபிக் தர நேரம் - மெட்லகேட்லா</item>
+        <item>மவுண்டன் தர நேரம் - அரிசோனா</item>
+        <item>பசிபிக் - பஜா கலிபோர்னியா</item>
+        <item>மவுண்டன் - சிஹூவாஹுவா</item>
+        <item>சென்ட்ரல் - டமுலிபஸ்</item>
+        <item>மவுண்டன் - சோனாரா</item>
+        <item>கிழக்கு ஆஃப்ரிக்க நேரம்</item>
+        <item>அட்லாண்டிக் தர நேரம்</item>
+        <item>அட்லாண்டிக் தர நேரம்</item>
+        <item>ஈஸ்டர்ன் ஐரோப்பிய நேரம்</item>
+        <item>கலினின்கிராடு நேரம்</item>
+        <item>அமேசான் - ரான்டோனியா</item>
+        <item>பிரேசிலியா - பெரா</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>செயின்ட் மார்ட்டீன்</item>
+        <item>கரீபியன் நெதர்லாந்து</item>
+        <item>க்யூராகோ</item>
+        <item>தெற்கு சூடான்</item>
+    </string-array>
+    <string-array name="note_color_palette_descriptions">
+        <item>வெள்ளை</item>
+        <item>சிவப்பு</item>
+        <item>ஆரஞ்சு</item>
+        <item>மஞ்சள்</item>
+        <item>பச்சை</item>
+        <item>பசும் நீலம்</item>
+        <item>நீலம்</item>
+        <item>சாம்பல்</item>
+    </string-array>
+</resources>

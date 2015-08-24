@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_more">
+        <item quantity="other">+ уште %d</item>
+        <item quantity="one">+ уште %d</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d се архивирани</item>
+        <item quantity="one">%d е архивирана</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d извадени од архива</item>
+        <item quantity="one">%d извадена од архива</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Да се избришат %d белешки засекогаш?</item>
+        <item quantity="one">Да се избрише %d белешка засекогаш?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d преместени во Корпа</item>
+        <item quantity="one">%d преместена во Корпа</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d се обновени</item>
+        <item quantity="one">%d е обновена</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d ставки се избришани</item>
+        <item quantity="one">%d ставка е избришана</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d ставки се обновени</item>
+        <item quantity="one">%d ставка е обновена</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+ уште %d</item>
+        <item quantity="one">+ уште %d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d ставки</item>
+        <item quantity="one">%d ставка</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d потсетници</item>
+        <item quantity="one">%d потсетник</item>
+    </plurals>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_more">
+        <item quantity="other">+%d ta</item>
+        <item quantity="one">+%d ta</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d ta qayd arxivlandi</item>
+        <item quantity="one">Qayd arxivlandi</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">Arxivdan chiqarildi (%d)</item>
+        <item quantity="one">Arxivdan chiqarildi</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d ta qayd butunlay o‘chirilsinmi?</item>
+        <item quantity="one">Qayd butunlay o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">Chiqitdonga tashlandi (%d)</item>
+        <item quantity="one">Chiqitdonga tashlandi</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d ta qayd qayta tiklandi</item>
+        <item quantity="one">Qayd qayta tiklandi</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d ta band o‘chirildi</item>
+        <item quantity="one">Band o‘chirildi</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d ta band qayta tiklandi</item>
+        <item quantity="one">Band qayta tiklandi</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d ta</item>
+        <item quantity="one">+%d ta</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d ta band</item>
+        <item quantity="one">%d ta band</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">%d daqiqa</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d soniya</item>
+        <item quantity="one">%d soniya</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d ta eslatma</item>
+        <item quantity="one">%d ta eslatma</item>
+    </plurals>
+</resources>

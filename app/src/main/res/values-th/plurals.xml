@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">รวม %d กิจกรรม</item>
+        <item quantity="one">รวม %d กิจกรรม</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ทุก %d วัน</item>
+        <item quantity="one">ทุก %d วัน</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ทุก %d สัปดาห์</item>
+        <item quantity="one">ทุก %d สัปดาห์</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ทุก %d เดือน</item>
+        <item quantity="one">ทุก %d เดือน</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ทุก %d ปี</item>
+        <item quantity="one">ทุก %d ปี</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">รวม %d ครั้ง</item>
+        <item quantity="one">รวม 1 ครั้ง</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ทุก %d วัน</item>
+        <item quantity="one">ทุกวัน</item>
+        <item quantity="two">ทุก %d วัน</item>
+        <item quantity="few">ทุก %d วัน</item>
+        <item quantity="many">ทุก %d วัน</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">ทุก %d วัน</item>
+        <item quantity="one">ทุกวัน</item>
+        <item quantity="two">ทุก %d วัน</item>
+        <item quantity="few">ทุก %d วัน</item>
+        <item quantity="many">ทุก %d วัน</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="one">ทุก%2$sของสัปดาห์</item>
+        <item quantity="two">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="few">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="many">ทุก %1$d สัปดาห์ใน%2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="one">ทุก%2$sของสัปดาห์</item>
+        <item quantity="two">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="few">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="many">ทุก %1$d สัปดาห์ใน%2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ทุก %1$d เดือน</item>
+        <item quantity="one">ทุกเดือน</item>
+        <item quantity="two">ทุก %1$d เดือน</item>
+        <item quantity="few">ทุก %1$d เดือน</item>
+        <item quantity="many">ทุก %1$d เดือน</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">ทุก %1$d เดือน</item>
+        <item quantity="one">ทุกเดือน</item>
+        <item quantity="two">ทุก %1$d เดือน</item>
+        <item quantity="few">ทุก %1$d เดือน</item>
+        <item quantity="many">ทุก %1$d เดือน</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ทุก %1$d ปี</item>
+        <item quantity="one">ทุกปี</item>
+        <item quantity="two">ทุก %1$d ปี</item>
+        <item quantity="few">ทุก %1$d ปี</item>
+        <item quantity="many">ทุก %1$d ปี</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">ทุก %1$d ปี</item>
+        <item quantity="one">ทุกปี</item>
+        <item quantity="two">ทุก %1$d ปี</item>
+        <item quantity="few">ทุก %1$d ปี</item>
+        <item quantity="many">ทุก %1$d ปี</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">และอีก %d รูป</item>
+        <item quantity="one">และอีก %d รูป</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">เก็บโน้ตแล้ว %d ฉบับ</item>
+        <item quantity="one">เก็บโน้ตแล้ว</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">เลิกเก็บโน้ต %d ฉบับแล้ว</item>
+        <item quantity="one">เลิกเก็บโน้ตแล้ว</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">ลบโน้ต %d ฉบับถาวรใช่ไหม</item>
+        <item quantity="one">ลบโน้ตถาวรใช่ไหม</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">ย้ายโน้ต %d ฉบับลงถังขยะแล้ว</item>
+        <item quantity="one">ย้ายโน้ตลงถังขยะแล้ว</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">คืนค่าโน้ต %d ฉบับแล้ว</item>
+        <item quantity="one">คืนค่าโน้ตแล้ว</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">ลบแล้ว %d รายการ</item>
+        <item quantity="one">ลบรายการแล้ว</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">กู้คืนแล้ว %d รายการ</item>
+        <item quantity="one">กู้คืนรายการแล้ว</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">และอีก %d รายการ</item>
+        <item quantity="one">และอีก %d รายการ</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d รายการ</item>
+        <item quantity="one">%d รายการ</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d นาที</item>
+        <item quantity="one">%d นาที</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d วินาที</item>
+        <item quantity="one">%d วินาที</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">เตือนความจำ %d รายการ</item>
+        <item quantity="one">เตือนความจำ %d รายการ</item>
+    </plurals>
+</resources>

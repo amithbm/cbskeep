@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_more">
+        <item quantity="other">edhe %d të tjera</item>
+        <item quantity="one">edhe %d tjetër</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d shënime u arkivuan</item>
+        <item quantity="one">Shënimi u arkivua</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d shënime u hoqën nga arkivi</item>
+        <item quantity="one">Shënimi u hoq nga arkivi</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Të fshihen %d shënimet përgjithmonë?</item>
+        <item quantity="one">Të fshihet shënimi përgjithmonë?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d u zhvendosën te Koshi</item>
+        <item quantity="one">Shënimi u zhvendos te Koshi</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d shënime u restauruan</item>
+        <item quantity="one">Shënimi u restaurua</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d artikuj u fshinë</item>
+        <item quantity="one">Artikulli u fshi</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d artikuj u restauruan</item>
+        <item quantity="one">Artikulli u restaurua</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">edhe %d të tjerë</item>
+        <item quantity="one">edhe %d tjetër</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d artikuj</item>
+        <item quantity="one">%d artikull</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minutë</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d sekonda</item>
+        <item quantity="one">%d sekondë</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d alarme rikujtuese</item>
+        <item quantity="one">%d alarm rikujtues</item>
+    </plurals>
+</resources>

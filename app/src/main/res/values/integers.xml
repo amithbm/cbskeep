@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="google_play_services_version">7571000</integer>
+    <integer name="snackbar_text_max_lines">2</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="abc_max_action_buttons">2</integer>
+    <integer name="chips_max_lines">-1</integer>
+    <integer name="cover_photo_ratio_width">16</integer>
+    <integer name="cover_photo_ratio_height">9</integer>
+    <integer name="child_position">0</integer>
+    <integer name="reenter_fullscreen_delay_time_in_millis">5000</integer>
+    <integer name="toast_bar_animation_duration_ms">300</integer>
+    <integer name="toast_bar_max_duration_ms">8000</integer>
+    <integer name="toast_bar_min_duration_ms">3000</integer>
+    <integer name="default_display_grid">1</integer>
+    <integer name="grid_column_count">2</integer>
+    <integer name="editor_grid_column_count">6</integer>
+    <integer name="editor_max_photo_per_row">3</integer>
+    <item type="integer" name="section_header_column_span">@integer/grid_column_count</item>
+    <integer name="note_column_span">1</integer>
+    <integer name="index_note_single_column_font_size">16</integer>
+    <integer name="index_note_multi_column_font_size">14</integer>
+    <integer name="note_text_max_lines">7</integer>
+    <integer name="editor_activity_side_space_percentage">0</integer>
+    <integer name="editor_activity_width_percentage">100</integer>
+    <integer name="progress_wait_time">1000</integer>
+    <integer name="progress_display_time">600</integer>
+    <integer name="progress_view_fadout_duration">500</integer>
+    <integer name="card_fragment_width_percentage">85</integer>
+    <integer name="activity_custom_animation_duration">300</integer>
+    <integer name="custom_animation_close_duration">250</integer>
+    <integer name="activity_custom_animation_duration_short">75</integer>
+    <integer name="filter_color_column_count">4</integer>
+</resources>

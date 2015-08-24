@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/ReminderInlineEditorStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/readonly_reminder_type" style="@style/ReminderInlineEditorIconStyle" />
+    <TextView android:id="@id/readonly_reminder_text" android:maxLines="2" android:singleLine="false" style="@style/ReminderHeaderTextStyle" />
+</LinearLayout>

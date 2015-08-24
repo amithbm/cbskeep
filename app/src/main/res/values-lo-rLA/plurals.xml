@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">ສໍາລັບ %d ນັດ​ໝາຍ</item>
+        <item quantity="one">ສໍາລັບ %d ນັດ​ໝາຍ</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ທຸກໆ %d ມື້</item>
+        <item quantity="one">ທຸກໆ %d ມື້</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ທຸກໆ %d ອາທິດ</item>
+        <item quantity="one">ທຸກໆ %d ອາທິດ</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ທຸກໆ %d ເດືອນ</item>
+        <item quantity="one">ທຸກໆ %d ເດືອນ</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ທຸກໆ %d ປີ</item>
+        <item quantity="one">ທຸກໆ %d ປີ</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; ​ເປັນ​ເວ​ລາ %d ເທື່ອ</item>
+        <item quantity="one">; ເທື່ອດຽວ</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ທຸກໆ %d ມື້</item>
+        <item quantity="one">ທຸກມື້</item>
+        <item quantity="two">ທຸກໆ %d ມື້</item>
+        <item quantity="few">ທຸກໆ %d ມື້</item>
+        <item quantity="many">ທຸກໆ %d ມື້</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">ທຸກໆ %d ມື້</item>
+        <item quantity="one">ທຸກໆ​ມື້</item>
+        <item quantity="two">ທຸກໆ %d ມື້</item>
+        <item quantity="few">ທຸກໆ %d ມື້</item>
+        <item quantity="many">ທຸກໆ %d ມື້</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ທຸກໆ %1$d ອາທິດໃນ %2$s</item>
+        <item quantity="one">%2$s ທຸກອາທິດ</item>
+        <item quantity="two">ທຸກໆ %1$d ອາທິດໃນ %2$s</item>
+        <item quantity="few">ທຸກໆ %1$d ອາທິດໃນ %2$s</item>
+        <item quantity="many">ທຸກໆ %1$d ອາທິດໃນ %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">ທຸກໆ %1$d ອາ​ທິດ​ໃນ %2$s</item>
+        <item quantity="one">ທຸກໆ​ອາ​ທິດ​ໃນ %2$s</item>
+        <item quantity="two">ທຸກໆ %1$d ອາ​ທິດ​ໃນ %2$s</item>
+        <item quantity="few">ທຸກໆ %1$d ອາ​ທິດ​ໃນ %2$s</item>
+        <item quantity="many">ທຸກໆ %1$d ອາ​ທິດ​ໃນ %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ທຸກໆ %1$d ເດືອນ</item>
+        <item quantity="one">ປະຈຳເດືອນ</item>
+        <item quantity="two">ທຸກໆ %1$d ເດືອນ</item>
+        <item quantity="few">ທຸກໆ %1$d ເດືອນ</item>
+        <item quantity="many">ທຸກໆ %1$d ເດືອນ</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">ທຸກໆ %1$d ເດືອນ</item>
+        <item quantity="one">ທຸກເດືອນ</item>
+        <item quantity="two">ທຸກໆ %1$d ເດືອນ</item>
+        <item quantity="few">ທຸກໆ %1$d ເດືອນ</item>
+        <item quantity="many">ທຸກໆ %1$d ເດືອນ</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ທຸກໆ %1$d ປີ</item>
+        <item quantity="one">ປະຈໍາປີ</item>
+        <item quantity="two">ທຸກໆ %1$d ປີ</item>
+        <item quantity="few">ທຸກໆ %1$d ປີ</item>
+        <item quantity="many">ທຸກໆ %1$d ປີ</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">ທຸກໆ %1$d ປີ</item>
+        <item quantity="one">ທຸກປີ</item>
+        <item quantity="two">ທຸກໆ %1$d ປີ</item>
+        <item quantity="few">ທຸກໆ %1$d ປີ</item>
+        <item quantity="many">ທຸກໆ %1$d ປີ</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">+%d ເພີ່ມເຕີມ</item>
+        <item quantity="one">+%d ເພີ່ມເຕີມ</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d ຖືກ​ຈັດ​ເກັບ​ແລ້ວ</item>
+        <item quantity="one">ບັນ​ທຶກ​ຖືກ​ຈັດ​ເກັບ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d ບໍ່​ໄດ້​ຈັດ​ເກັບ</item>
+        <item quantity="one">ບັນ​ທຶກ​ບໍ່​ໄດ້ຈັດ​ເກັບ</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">ລຶບ​ %d ​ບັນ​ທຶກ​ອອກ​ຖາ​ວອນບໍ?</item>
+        <item quantity="one">​ລຶບ​ບັນ​ທຶກ​ອອກ​ຖາ​ວອນບໍ?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d ຖືກຍ້າຍໄປໃສ່​ຖັງຂີ້ເຫຍື້ອແລ້ວ</item>
+        <item quantity="one">ບັນທຶກຖືກຍ້າຍໄປໃສ່​ຖັງຂີ້ເຫຍື້ອແລ້ວ</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d ​ຖືກ​ກູ້​ຄືນ​ແລ້ວ</item>
+        <item quantity="one">ບັນ​ທຶກ​ຖືກ​ກູ້​ຄືນ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d ລາຍ​ການ​ຖືກ​ລຶບ​ແລ້ວ</item>
+        <item quantity="one">ລາຍ​ການ​ຖືກ​ລຶບ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d ລາຍ​ການ​ຖືກ​ກູ້​ຄືນ​ແລ້ວ</item>
+        <item quantity="one">ລາຍ​ການ​ຖືກ​ກູ້​ຄືນ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d ເພີ່ມເຕີມ</item>
+        <item quantity="one">+%d ເພີ່ມເຕີມ</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d ລາຍການ</item>
+        <item quantity="one">%d ລາຍການ</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d ນາ​ທີ</item>
+        <item quantity="one">%d ນາ​ທີ</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d ນາ​ທີ</item>
+        <item quantity="one">%d ນາ​ທີ</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d ການເຕືອນ</item>
+        <item quantity="one">%d ການເຕືອນ</item>
+    </plurals>
+</resources>

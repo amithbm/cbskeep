@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="note_color_palette_descriptions">
+        <item>Ağ</item>
+        <item>Qırmızı</item>
+        <item>Narıncı</item>
+        <item>Sarı</item>
+        <item>Yaşıl</item>
+        <item>Firuzəyi</item>
+        <item>Göy</item>
+        <item>Boz</item>
+    </string-array>
+</resources>

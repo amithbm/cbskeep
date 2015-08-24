@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="use_modal_editor">true</bool>
+    <bool name="full_width_toast">false</bool>
+</resources>

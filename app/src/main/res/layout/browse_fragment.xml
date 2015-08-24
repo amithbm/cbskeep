@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.keep.browse.BrowseSwipeRefreshLayout android:id="@id/swipe_refresh_widget" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/browse_fragment_content" />
+    </com.google.android.keep.browse.BrowseSwipeRefreshLayout>
+    <FrameLayout android:id="@id/scrim" android:background="@color/scrim_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" />
+    <include android:id="@id/upgrade_mandatory_banner" android:visibility="gone" layout="@layout/browse_upgrade_mandatory_banner" />
+    <FrameLayout android:layout_gravity="top" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar android:theme="@style/ToolbarTheme" android:gravity="center" android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:popupTheme="@style/ThemeOverlay.AppCompat.Light" style="@style/ToolbarStyle" />
+        <include layout="@layout/search_filter_view" />
+    </FrameLayout>
+</FrameLayout>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">برای %d رویداد</item>
+        <item quantity="one">برای %d رویداد</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">هر %d روز</item>
+        <item quantity="one">هر %d روز</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">هر %d هفته</item>
+        <item quantity="one">هر %d هفته</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">هر %d ماه</item>
+        <item quantity="one">هر %d ماه</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">هر %d سال</item>
+        <item quantity="one">هر %d سال</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">؛ برای %d بار</item>
+        <item quantity="one">؛ برای یک‌بار</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">هر %d روز</item>
+        <item quantity="one">روزانه</item>
+        <item quantity="two">هر %d روز</item>
+        <item quantity="few">هر %d روز</item>
+        <item quantity="many">هر %d روز</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">هر %d روز</item>
+        <item quantity="one">روزانه</item>
+        <item quantity="two">هر %d روز</item>
+        <item quantity="few">هر %d روز</item>
+        <item quantity="many">هر %d روز</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">هر %1$d هفته در روز %2$s</item>
+        <item quantity="one">هفتگی روزهای %2$s</item>
+        <item quantity="two">هر %1$d هفته در روز %2$s</item>
+        <item quantity="few">هر %1$d هفته در روز %2$s</item>
+        <item quantity="many">هر %1$d هفته در روز %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">هر %1$d هفته در روز %2$s</item>
+        <item quantity="one">هفتگی، روز(های) %2$s</item>
+        <item quantity="two">هر %1$d هفته در روز %2$s</item>
+        <item quantity="few">هر %1$d هفته در روز %2$s</item>
+        <item quantity="many">هر %1$d هفته در روز %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">هر %1$d ماه</item>
+        <item quantity="one">ماهانه</item>
+        <item quantity="two">هر %1$d ماه</item>
+        <item quantity="few">هر %1$d ماه</item>
+        <item quantity="many">هر %1$d ماه</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">هر %1$d ماه</item>
+        <item quantity="one">ماهانه</item>
+        <item quantity="two">هر %1$d ماه</item>
+        <item quantity="few">هر %1$d ماه</item>
+        <item quantity="many">هر %1$d ماه</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">هر %1$d سال</item>
+        <item quantity="one">سالانه</item>
+        <item quantity="two">هر %1$d سال</item>
+        <item quantity="few">هر %1$d سال</item>
+        <item quantity="many">هر %1$d سال</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">هر %1$d سال</item>
+        <item quantity="one">سالانه</item>
+        <item quantity="two">هر %1$d سال</item>
+        <item quantity="few">هر %1$d سال</item>
+        <item quantity="many">هر %1$d سال</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">+%d عکس دیگر</item>
+        <item quantity="one">+%d عکس دیگر</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d یادداشت بایگانی شد</item>
+        <item quantity="one">%d یادداشت بایگانی شد</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d مورد از بایگانی خارج شد</item>
+        <item quantity="one">%d مورد از بایگانی خارج شد</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d یادداشت برای همیشه حذف شود؟</item>
+        <item quantity="one">%d یادداشت برای همیشه حذف شود؟</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d به حذف‌شده‌ها منتقل شد</item>
+        <item quantity="one">%d به حذف‌شده‌ها منتقل شد</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d یادداشت بازیابی شد</item>
+        <item quantity="one">%d یادداشت بازیابی شد</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d مورد حذف شد</item>
+        <item quantity="one">%d مورد حذف شد</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d مورد بازیابی شد</item>
+        <item quantity="one">%d مورد بازیابی شد</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d مورد دیگر</item>
+        <item quantity="one">+%d مورد دیگر</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d مورد</item>
+        <item quantity="one">%d مورد</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">%d دقیقه</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d ثانیه</item>
+        <item quantity="one">%d ثانیه</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d یادآوری</item>
+        <item quantity="one">%d یادآوری</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/drawer_link_help_feedback" android:background="?selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/drawer_horizontal_divider" />
+    <LinearLayout android:orientation="horizontal" android:paddingLeft="@dimen/drawer_side_padding" android:paddingRight="@dimen/drawer_side_padding" android:layout_width="fill_parent" android:layout_height="@dimen/drawer_link_page_fixed_height">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:src="@drawable/ic_material_feedback_black" android:alpha="0.5" />
+        <TextView android:textStyle="bold" android:textColor="@color/sliding_drawer_text_color" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/drawer_link_page_help_feedback" style="@style/DrawerLandingPageItemTextStyle" />
+    </LinearLayout>
+</LinearLayout>

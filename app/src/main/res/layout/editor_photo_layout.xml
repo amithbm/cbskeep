@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/photo" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    <View android:id="@id/touch_layer" android:background="?selectableItemBackgroundBorderless" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignLeft="@id/photo" android:layout_alignTop="@id/photo" android:layout_alignRight="@id/photo" android:layout_alignBottom="@id/photo" />
+    <ImageView android:gravity="center_vertical" android:id="@id/delete_button" android:layout_margin="4.0dip" android:src="@drawable/ic_delete_photo" android:layout_alignRight="@id/photo" android:layout_alignBottom="@id/photo" android:contentDescription="@string/remove_photo" style="@style/EditorDeleteButtonStyle" />
+    <ProgressBar android:id="@id/waiting_progress" android:layout_centerInParent="true" style="@style/EditorPhotoBusyStyle" />
+</RelativeLayout>

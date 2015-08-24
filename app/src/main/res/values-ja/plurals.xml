@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d回繰り返す</item>
+        <item quantity="one">%d回繰り返す</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d日ごと</item>
+        <item quantity="one">%d日ごと</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d週間ごと</item>
+        <item quantity="one">%d週間ごと</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%dか月ごと</item>
+        <item quantity="one">%dか月ごと</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d年ごと</item>
+        <item quantity="one">%d年ごと</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">（%d回）</item>
+        <item quantity="one">（1回）</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d日ごと</item>
+        <item quantity="one">毎日</item>
+        <item quantity="two">%d日ごと</item>
+        <item quantity="few">%d日ごと</item>
+        <item quantity="many">%d日ごと</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">%d日ごと</item>
+        <item quantity="one">毎日</item>
+        <item quantity="two">%d日ごと</item>
+        <item quantity="few">%d日ごと</item>
+        <item quantity="many">%d日ごと</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d週ごとの%2$s</item>
+        <item quantity="one">週単位（%2$s）</item>
+        <item quantity="two">%1$d週ごとの%2$s</item>
+        <item quantity="few">%1$d週ごとの%2$s</item>
+        <item quantity="many">%1$d週ごとの%2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">%1$d週ごとの%2$s</item>
+        <item quantity="one">毎週%2$s</item>
+        <item quantity="two">%1$d週ごとの%2$s</item>
+        <item quantity="few">%1$d週ごとの%2$s</item>
+        <item quantity="many">%1$d週ごとの%2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$dか月ごと</item>
+        <item quantity="one">毎月</item>
+        <item quantity="two">%1$dか月ごと</item>
+        <item quantity="few">%1$dか月ごと</item>
+        <item quantity="many">%1$dか月ごと</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">%1$dか月ごと</item>
+        <item quantity="one">毎月</item>
+        <item quantity="two">%1$dか月ごと</item>
+        <item quantity="few">%1$dか月ごと</item>
+        <item quantity="many">%1$dか月ごと</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d年ごと</item>
+        <item quantity="one">毎年</item>
+        <item quantity="two">%1$d年ごと</item>
+        <item quantity="few">%1$d年ごと</item>
+        <item quantity="many">%1$d年ごと</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">%1$d年ごと</item>
+        <item quantity="one">毎年</item>
+        <item quantity="two">%1$d年ごと</item>
+        <item quantity="few">%1$d年ごと</item>
+        <item quantity="many">%1$d年ごと</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">他%d枚</item>
+        <item quantity="one">他%d枚</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d件をアーカイブしました</item>
+        <item quantity="one">メモをアーカイブしました</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d件のアーカイブを解除しました</item>
+        <item quantity="one">メモのアーカイブを解除しました</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d件のメモを完全に削除しますか？</item>
+        <item quantity="one">メモを完全に削除しますか？</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d件をゴミ箱に移動しました</item>
+        <item quantity="one">メモをゴミ箱に移動しました</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d件を復元しました</item>
+        <item quantity="one">メモを復元しました</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d件のアイテムを削除しました</item>
+        <item quantity="one">アイテムを削除しました</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d件のアイテムを復元しました</item>
+        <item quantity="one">アイテムを復元しました</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">他%d件</item>
+        <item quantity="one">他%d件</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d件</item>
+        <item quantity="one">%d件</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d秒</item>
+        <item quantity="one">%d秒</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d件のリマインダー</item>
+        <item quantity="one">%d件のリマインダー</item>
+    </plurals>
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ಪ್ರತಿದಿನ ಪುನರಾವರ್ತಿಸು</item>
+        <item>ವಾರ ಪುನರಾವರ್ತಿಸು</item>
+        <item>ತಿಂಗಳು ಪುನರಾವರ್ತಿಸು</item>
+        <item>ವಾರ್ಷಿಕ ಪುನರಾವರ್ತಿಸು</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>ಪುನರಾವರ್ತನೆ ಇಲ್ಲ</item>
+        <item>ಪ್ರತಿ ದಿನ</item>
+        <item>ಪ್ರತಿ ವಾರ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳು</item>
+        <item>ಪ್ರತಿ ವರ್ಷ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ಪ್ರತಿ ಮೊದಲ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಭಾನುವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ಪ್ರತಿ ಮೊದಲ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಸೋಮವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ಪ್ರತಿ ಮೊದಲ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಮಂಗಳವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ಪ್ರತಿ ಮೊದಲ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಬುಧವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ಪ್ರತಿ ಮೊದಲ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಗುರುವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ಪ್ರತಿ ಮೊದಲ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಶುಕ್ರವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ಪ್ರತಿ ಮೊದಲ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಶನಿವಾರ</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ಆಸ್ಟ್ರೇಲಿಯನ್ ಸೆಂಟ್ರಲ್ - NT</item>
+        <item>ಆಸ್ಟ್ರೇಲಿಯನ್ ಸೆಂಟ್ರಲ್ - SA</item>
+        <item>ಆಸ್ಟ್ರೇಲಿಯನ್ ಈಸ್ಟ್ರನ್ - QLD</item>
+        <item>"ಆಸ್ಟ್ರೇಲಿಯನ್ ಈಸ್ಟ್ರನ್  - NSW"</item>
+        <item>ಮೌಂಟನ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಡಾವ್ಸನ್ ಕ್ರೀಕ್</item>
+        <item>ಸೆಂಟ್ರಲ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಸಾಸ್ಕಾಚೆವನ್</item>
+        <item>ಈಸ್ಟರ್ನ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಅತಿಕೊಕನ್‌</item>
+        <item>ಅಟ್ಲಾಂಟಿಕ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಕ್ವಿಬೆಕ್</item>
+        <item>ಹವಾಯಿ ಅಲುಟಿಯನ್ - ಹವಾಯಿ</item>
+        <item>ಹವಾಯಿ ಅಲುಟಿಯನ್ - ಅಲಾಸ್ಕನ್</item>
+        <item>ಪೆಸಿಫಿಕ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಮೆಟ್ಲಾಕಟ್ಲಾ</item>
+        <item>ಮೌಂಟನ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ - ಅರಿಜೋನಾ</item>
+        <item>ಪೆಸಿಫಿಕ್ - ಬಾಜಾ ಕ್ಯಾಲಿಫೊರ್ನಿಯಾ</item>
+        <item>ಮೌಂಟೇನ್ - ಚಿಹುವಾ</item>
+        <item>ಸೆಂಟ್ರಲ್ - ತಮೌಲಿಪಾಸ್</item>
+        <item>ಮೌಂಟೇನ್ - ಸೋನೋರಾ</item>
+        <item>ಪೂರ್ವ ಆಫ್ರಿಕಾ ಸಮಯ</item>
+        <item>ಅಟ್ಲಾಂಟಿಕ್ ಪ್ರಮಾಣಿತ ಸಮಯ</item>
+        <item>ಅಟ್ಲಾಂಟಿಕ್ ಪ್ರಮಾಣಿತ ಸಮಯ</item>
+        <item>ಪೂರ್ವ ಯುರೋಪಿಯನ್ ಸಮಯ</item>
+        <item>ಕಲಿನಿಂಗ್ರಾಡ್‌ ಸಮಯ</item>
+        <item>ಅಮೆಜಾನ್ - ರೊಂಡೊನಿಯಾ</item>
+        <item>ಬ್ರೆಜಿಲಿಯಾ - ಪಾರಾ</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>ಸಿಂಟ್ ಮಾರ್ಟನ್</item>
+        <item>ಕೆರೀಬಿಯನ್ ನೆದರ್‌ಲ್ಯಾಂಡ್ಸ್</item>
+        <item>ಕುರಾಕಾವ್</item>
+        <item>ದಕ್ಷಿಣ ಸೂಡಾನ್</item>
+    </string-array>
+    <string-array name="note_color_palette_descriptions">
+        <item>ಬಿಳಿ</item>
+        <item>ಕೆಂಪು</item>
+        <item>ಕಿತ್ತಳೆ</item>
+        <item>ಹಳದಿ</item>
+        <item>ಹಸಿರು</item>
+        <item>ಗಾಢ ಹಸಿರು-ನೀಲಿ</item>
+        <item>ನೀಲಿ</item>
+        <item>ಗ್ರೇ</item>
+    </string-array>
+</resources>

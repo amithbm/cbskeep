@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">For %d events</item>
+        <item quantity="one">For %d event</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Every %d days</item>
+        <item quantity="one">Every %d day</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Every %d weeks</item>
+        <item quantity="one">Every %d week</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Every %d months</item>
+        <item quantity="one">Every %d month</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Every %d years</item>
+        <item quantity="one">Every %d year</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d times</item>
+        <item quantity="one">; once</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Every %d days</item>
+        <item quantity="one">Daily</item>
+        <item quantity="two">Every %d days</item>
+        <item quantity="few">Every %d days</item>
+        <item quantity="many">Every %d days</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">every %d days</item>
+        <item quantity="one">daily</item>
+        <item quantity="two">every %d days</item>
+        <item quantity="few">every %d days</item>
+        <item quantity="many">every %d days</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Every %1$d weeks on %2$s</item>
+        <item quantity="one">Weekly, on %2$s</item>
+        <item quantity="two">Every %1$d weeks on %2$s</item>
+        <item quantity="few">Every %1$d weeks on %2$s</item>
+        <item quantity="many">Every %1$d weeks on %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">every %1$d weeks on %2$s</item>
+        <item quantity="one">weekly, on %2$s</item>
+        <item quantity="two">every %1$d weeks on %2$s</item>
+        <item quantity="few">every %1$d weeks on %2$s</item>
+        <item quantity="many">every %1$d weeks on %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Every %1$d months</item>
+        <item quantity="one">Monthly</item>
+        <item quantity="two">Every %1$d months</item>
+        <item quantity="few">Every %1$d months</item>
+        <item quantity="many">Every %1$d months</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">every %1$d months</item>
+        <item quantity="one">monthly</item>
+        <item quantity="two">every %1$d months</item>
+        <item quantity="few">every %1$d months</item>
+        <item quantity="many">every %1$d months</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Every %1$d years</item>
+        <item quantity="one">Yearly</item>
+        <item quantity="two">Every %1$d years</item>
+        <item quantity="few">Every %1$d years</item>
+        <item quantity="many">Every %1$d years</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">every %1$d years</item>
+        <item quantity="one">yearly</item>
+        <item quantity="two">every %1$d years</item>
+        <item quantity="few">every %1$d years</item>
+        <item quantity="many">every %1$d years</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">+%d more</item>
+        <item quantity="one">+%d more</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d archived</item>
+        <item quantity="one">Note archived</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d unarchived</item>
+        <item quantity="one">Note unarchived</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Delete %d notes forever?</item>
+        <item quantity="one">Delete note forever?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d moved to recycle bin</item>
+        <item quantity="one">Note moved to recycle bin</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d restored</item>
+        <item quantity="one">Note restored</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d items deleted</item>
+        <item quantity="one">Item deleted</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d items restored</item>
+        <item quantity="one">Item restored</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d more</item>
+        <item quantity="one">+%d more</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d reminders</item>
+        <item quantity="one">%d reminder</item>
+    </plurals>
+</resources>

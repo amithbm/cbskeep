@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d ಈವೆಂಟ್‌ಗಳಿಗಾಗಿ</item>
+        <item quantity="one">%d ಈವೆಂಟ್‌ಗಾಗಿ</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ಪ್ರತಿ %d ದಿನಗಳು</item>
+        <item quantity="one">ಪ್ರತಿ %d ದಿನ</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ಪ್ರತಿ %d ವಾರಗಳು</item>
+        <item quantity="one">ಪ್ರತಿ %d ವಾರ</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ಪ್ರತಿ %d ತಿಂಗಳು</item>
+        <item quantity="one">ಪ್ರತಿ %d ತಿಂಗಳು</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ಪ್ರತಿ %d ವರ್ಷಗಳು</item>
+        <item quantity="one">ಪ್ರತಿ %d ವರ್ಷ</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d ಬಾರಿಗೆ</item>
+        <item quantity="one">; ಒಂದು ಬಾರಿಗೆ</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ಪ್ರತಿ %d ದಿನಗಳು</item>
+        <item quantity="one">ಪ್ರತಿದಿನ</item>
+        <item quantity="two">ಪ್ರತಿ %d ದಿನಗಳು</item>
+        <item quantity="few">ಪ್ರತಿ %d ದಿನಗಳು</item>
+        <item quantity="many">ಪ್ರತಿ %d ದಿನಗಳು</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">ಪ್ರತಿ %d ದಿನಗಳು</item>
+        <item quantity="one">ಪ್ರತಿದಿನ</item>
+        <item quantity="two">ಪ್ರತಿ %d ದಿನಗಳು</item>
+        <item quantity="few">ಪ್ರತಿ %d ದಿನಗಳು</item>
+        <item quantity="many">ಪ್ರತಿ %d ದಿನಗಳು</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%2$s ರಂದು ಪ್ರತಿ %1$d ವಾರಗಳು</item>
+        <item quantity="one">%2$s ರಂದು ಪ್ರತಿ ವಾರ</item>
+        <item quantity="two">%2$s ರಂದು ಪ್ರತಿ %1$d ವಾರಗಳು</item>
+        <item quantity="few">%2$s ರಂದು ಪ್ರತಿ %1$d ವಾರಗಳು</item>
+        <item quantity="many">%2$s ರಂದು ಪ್ರತಿ %1$d ವಾರಗಳು</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">%2$s ರಂದು ಪ್ರತಿ %1$d ವಾರಗಳು</item>
+        <item quantity="one">%2$s ರಂದು ಪ್ರತಿವಾರ</item>
+        <item quantity="two">%2$s ರಂದು ಪ್ರತಿ %1$d ವಾರಗಳು</item>
+        <item quantity="few">%2$s ರಂದು ಪ್ರತಿ %1$d ವಾರಗಳು</item>
+        <item quantity="many">%2$s ರಂದು ಪ್ರತಿ %1$d ವಾರಗಳು</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ಪ್ರತಿ %1$d ತಿಂಗಳು</item>
+        <item quantity="one">ಮಾಸಿಕ</item>
+        <item quantity="two">ಪ್ರತಿ %1$d ತಿಂಗಳು</item>
+        <item quantity="few">ಪ್ರತಿ %1$d ತಿಂಗಳು</item>
+        <item quantity="many">ಪ್ರತಿ %1$d ತಿಂಗಳು</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">ಪ್ರತಿ %1$d ತಿಂಗಳು</item>
+        <item quantity="one">ಮಾಸಿಕ</item>
+        <item quantity="two">ಪ್ರತಿ %1$d ತಿಂಗಳು</item>
+        <item quantity="few">ಪ್ರತಿ %1$d ತಿಂಗಳು</item>
+        <item quantity="many">ಪ್ರತಿ %1$d ತಿಂಗಳು</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ಪ್ರತಿ %1$d ವರ್ಷಗಳು</item>
+        <item quantity="one">ವಾರ್ಷಿಕ</item>
+        <item quantity="two">ಪ್ರತಿ %1$d ವರ್ಷಗಳು</item>
+        <item quantity="few">ಪ್ರತಿ %1$d ವರ್ಷಗಳು</item>
+        <item quantity="many">ಪ್ರತಿ %1$d ವರ್ಷಗಳು</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">ಪ್ರತಿ %1$d ವರ್ಷಗಳು</item>
+        <item quantity="one">ವಾರ್ಷಿಕ</item>
+        <item quantity="two">ಪ್ರತಿ %1$d ವರ್ಷಗಳು</item>
+        <item quantity="few">ಪ್ರತಿ %1$d ವರ್ಷಗಳು</item>
+        <item quantity="many">ಪ್ರತಿ %1$d ವರ್ಷಗಳು</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">+%d ಇನ್ನಷ್ಟು</item>
+        <item quantity="one">+%d ಇನ್ನಷ್ಟು</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d ಅನ್‌ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಅನ್‌ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d ಟಿಪ್ಪಣಿಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸುವುದೇ?</item>
+        <item quantity="one">%d ಟಿಪ್ಪಣಿಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಅಳಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಅಳಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಐಟಂಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d ಇನ್ನಷ್ಟು</item>
+        <item quantity="one">+%d ಇನ್ನಷ್ಟು</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d ಐಟಂಗಳು</item>
+        <item quantity="one">%d ಐಟಂಗಳು</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d ನಿಮಿಷಗಳು</item>
+        <item quantity="one">%d ನಿಮಿಷಗಳು</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d ಸೆಕೆಂಡುಗಳು</item>
+        <item quantity="one">%d ಸೆಕೆಂಡುಗಳು</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d ಜ್ಞಾಪನೆಗಳು</item>
+        <item quantity="one">%d ಜ್ಞಾಪನೆಗಳು</item>
+    </plurals>
+</resources>

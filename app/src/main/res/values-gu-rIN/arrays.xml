@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="note_color_palette_descriptions">
+        <item>સફેદ</item>
+        <item>લાલ</item>
+        <item>નારંગી</item>
+        <item>પીળો</item>
+        <item>લીલો</item>
+        <item>ટીલ</item>
+        <item>વાદળી</item>
+        <item>ગ્રે</item>
+    </string-array>
+</resources>

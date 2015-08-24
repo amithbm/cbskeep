@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">[Föŕ %d éVéñţš one two three]</item>
+        <item quantity="one">[Föŕ %d éVéñţ one two]</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">[ÉVéŕý %d ðåýš one two three]</item>
+        <item quantity="one">[ÉVéŕý %d ðåý one two]</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">[ÉVéŕý %d ŵééķš one two three]</item>
+        <item quantity="one">[ÉVéŕý %d ŵééķ one two three]</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">[ÉVéŕý %d ḿöñţĥš one two three]</item>
+        <item quantity="one">[ÉVéŕý %d ḿöñţĥ one two three]</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">[ÉVéŕý %d ýéåŕš one two three]</item>
+        <item quantity="one">[ÉVéŕý %d ýéåŕ one two three]</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">[; ƒöŕ %d ţîḿéš one two three]</item>
+        <item quantity="one">[; ƒöŕ öñé ţîḿé one two three]</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">[ÉVéŕý %d ðåýš one two three]</item>
+        <item quantity="one">[Ðåîļý one two]</item>
+        <item quantity="two">[ÉVéŕý %d ðåýš one two three]</item>
+        <item quantity="few">[ÉVéŕý %d ðåýš one two three]</item>
+        <item quantity="many">[ÉVéŕý %d ðåýš one two three]</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">[éVéŕý %d ðåýš one two three]</item>
+        <item quantity="one">[ðåîļý one two]</item>
+        <item quantity="two">[éVéŕý %d ðåýš one two three]</item>
+        <item quantity="few">[éVéŕý %d ðåýš one two three]</item>
+        <item quantity="many">[éVéŕý %d ðåýš one two three]</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">[ÉVéŕý %1$d ŵééķš öñ %2$s one two three four five six]</item>
+        <item quantity="one">[Ŵééķļý öñ %2$s one two three]</item>
+        <item quantity="two">[ÉVéŕý %1$d ŵééķš öñ %2$s one two three four five six]</item>
+        <item quantity="few">[ÉVéŕý %1$d ŵééķš öñ %2$s one two three four five six]</item>
+        <item quantity="many">[ÉVéŕý %1$d ŵééķš öñ %2$s one two three four five six]</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">[éVéŕý %1$d ŵééķš öñ %2$s one two three four five six]</item>
+        <item quantity="one">[ŵééķļý öñ %2$s one two three]</item>
+        <item quantity="two">[éVéŕý %1$d ŵééķš öñ %2$s one two three four five six]</item>
+        <item quantity="few">[éVéŕý %1$d ŵééķš öñ %2$s one two three four five six]</item>
+        <item quantity="many">[éVéŕý %1$d ŵééķš öñ %2$s one two three four five six]</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">[ÉVéŕý %1$d ḿöñţĥš one two three]</item>
+        <item quantity="one">[Ḿöñţĥļý one two]</item>
+        <item quantity="two">[ÉVéŕý %1$d ḿöñţĥš one two three]</item>
+        <item quantity="few">[ÉVéŕý %1$d ḿöñţĥš one two three]</item>
+        <item quantity="many">[ÉVéŕý %1$d ḿöñţĥš one two three]</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">[éVéŕý %1$d ḿöñţĥš one two three]</item>
+        <item quantity="one">[ḿöñţĥļý one two]</item>
+        <item quantity="two">[éVéŕý %1$d ḿöñţĥš one two three]</item>
+        <item quantity="few">[éVéŕý %1$d ḿöñţĥš one two three]</item>
+        <item quantity="many">[éVéŕý %1$d ḿöñţĥš one two three]</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">[ÉVéŕý %1$d ýéåŕš one two three]</item>
+        <item quantity="one">[Ýéåŕļý one two]</item>
+        <item quantity="two">[ÉVéŕý %1$d ýéåŕš one two three]</item>
+        <item quantity="few">[ÉVéŕý %1$d ýéåŕš one two three]</item>
+        <item quantity="many">[ÉVéŕý %1$d ýéåŕš one two three]</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">[éVéŕý %1$d ýéåŕš one two three]</item>
+        <item quantity="one">[ýéåŕļý one two]</item>
+        <item quantity="two">[éVéŕý %1$d ýéåŕš one two three]</item>
+        <item quantity="few">[éVéŕý %1$d ýéåŕš one two three]</item>
+        <item quantity="many">[éVéŕý %1$d ýéåŕš one two three]</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">[+%d ḿöŕé one two]</item>
+        <item quantity="one">[+%d ḿöŕé one two]</item>
+        <item quantity="two">[+%d ḿöŕé one two]</item>
+        <item quantity="few">[+%d ḿöŕé one two]</item>
+        <item quantity="many">[+%d ḿöŕé one two]</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">[%d åŕçĥîVéð one two]</item>
+        <item quantity="one">[Ñöţé åŕçĥîVéð one two three]</item>
+        <item quantity="two">[%d åŕçĥîVéð one two]</item>
+        <item quantity="few">[%d åŕçĥîVéð one two]</item>
+        <item quantity="many">[%d åŕçĥîVéð one two]</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">[%d ûñåŕçĥîVéð one two three]</item>
+        <item quantity="one">[Ñöţé ûñåŕçĥîVéð one two three]</item>
+        <item quantity="two">[%d ûñåŕçĥîVéð one two three]</item>
+        <item quantity="few">[%d ûñåŕçĥîVéð one two three]</item>
+        <item quantity="many">[%d ûñåŕçĥîVéð one two three]</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">[Ðéļéţé %d ñöţéš ƒöŕéVéŕ¿ one two three]</item>
+        <item quantity="one">[Ðéļéţé ñöţé ƒöŕéVéŕ¿ one two three]</item>
+        <item quantity="two">[Ðéļéţé %d ñöţéš ƒöŕéVéŕ¿ one two three]</item>
+        <item quantity="few">[Ðéļéţé %d ñöţéš ƒöŕéVéŕ¿ one two three]</item>
+        <item quantity="many">[Ðéļéţé %d ñöţéš ƒöŕéVéŕ¿ one two three]</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">[%d ḿöVéð ţö Ţŕåšĥ one two three]</item>
+        <item quantity="one">[Ñöţé ḿöVéð ţö Ţŕåšĥ one two three]</item>
+        <item quantity="two">[%d ḿöVéð ţö Ţŕåšĥ one two three]</item>
+        <item quantity="few">[%d ḿöVéð ţö Ţŕåšĥ one two three]</item>
+        <item quantity="many">[%d ḿöVéð ţö Ţŕåšĥ one two three]</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">[%d ŕéšţöŕéð one two]</item>
+        <item quantity="one">[Ñöţé ŕéšţöŕéð one two three]</item>
+        <item quantity="two">[%d ŕéšţöŕéð one two]</item>
+        <item quantity="few">[%d ŕéšţöŕéð one two]</item>
+        <item quantity="many">[%d ŕéšţöŕéð one two]</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">[%d îţéḿš ðéļéţéð one two three]</item>
+        <item quantity="one">[Îţéḿ ðéļéţéð one two]</item>
+        <item quantity="two">[%d îţéḿš ðéļéţéð one two three]</item>
+        <item quantity="few">[%d îţéḿš ðéļéţéð one two three]</item>
+        <item quantity="many">[%d îţéḿš ðéļéţéð one two three]</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">[%d îţéḿš ŕéšţöŕéð one two three]</item>
+        <item quantity="one">[Îţéḿ ŕéšţöŕéð one two three]</item>
+        <item quantity="two">[%d îţéḿš ŕéšţöŕéð one two three]</item>
+        <item quantity="few">[%d îţéḿš ŕéšţöŕéð one two three]</item>
+        <item quantity="many">[%d îţéḿš ŕéšţöŕéð one two three]</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">[+%d ḿöŕé one two]</item>
+        <item quantity="one">[+%d ḿöŕé one two]</item>
+        <item quantity="two">[+%d ḿöŕé one two]</item>
+        <item quantity="few">[+%d ḿöŕé one two]</item>
+        <item quantity="many">[+%d ḿöŕé one two]</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">[%d îţéḿš one two]</item>
+        <item quantity="one">[%d îţéḿ one two]</item>
+        <item quantity="two">[%d îţéḿš one two]</item>
+        <item quantity="few">[%d îţéḿš one two]</item>
+        <item quantity="many">[%d îţéḿš one two]</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">[%d ḿîñûţéš one two]</item>
+        <item quantity="one">[%d ḿîñûţé one two]</item>
+        <item quantity="two">[%d ḿîñûţéš one two]</item>
+        <item quantity="few">[%d ḿîñûţéš one two]</item>
+        <item quantity="many">[%d ḿîñûţéš one two]</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">[%d šéçöñðš one two]</item>
+        <item quantity="one">[%d šéçöñð one two]</item>
+        <item quantity="two">[%d šéçöñðš one two]</item>
+        <item quantity="few">[%d šéçöñðš one two]</item>
+        <item quantity="many">[%d šéçöñðš one two]</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">[%d ŕéḿîñðéŕš one two]</item>
+        <item quantity="one">[%d ŕéḿîñðéŕ one two]</item>
+        <item quantity="two">[%d ŕéḿîñðéŕš one two]</item>
+        <item quantity="few">[%d ŕéḿîñðéŕš one two]</item>
+        <item quantity="many">[%d ŕéḿîñðéŕš one two]</item>
+    </plurals>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Design.TabLayout" parent="@style/Base.Widget.Design.TabLayout">
+        <item name="tabMode">fixed</item>
+        <item name="tabGravity">center</item>
+    </style>
+    <style name="RecipientEditTextView" parent="@android:attr/autoCompleteTextViewStyle">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:inputType">textEmailAddress|textMultiLine</item>
+        <item name="android:imeOptions">actionNext</item>
+        <item name="android:dropDownHorizontalOffset">-4.0dip</item>
+        <item name="android:dropDownVerticalOffset">0.0dip</item>
+    </style>
+    <style name="FilterBarQueryFrame">
+        <item name="android:layout_toLeftOf">@id/filter_controls</item>
+        <item name="android:layout_toRightOf">@id/search_actionbar_back_button</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="QebContainerStyle">
+        <item name="android:layout_gravity">bottom|center|right</item>
+        <item name="android:layout_width">@dimen/qeb_tablet_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">24.0dip</item>
+        <item name="android:layout_marginBottom">24.0dip</item>
+    </style>
+    <style name="Qeb">
+        <item name="android:background">@drawable/qeb_shadow</item>
+        <item name="android:paddingLeft">@dimen/qeb_padding_start</item>
+        <item name="android:paddingRight">@dimen/qeb_padding_end</item>
+    </style>
+    <style name="SnackBarLayoutStyle">
+        <item name="android:background">@color/snack_bar_background_color</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxWidth">568.0dip</item>
+        <item name="android:minWidth">288.0dip</item>
+        <item name="android:minHeight">@dimen/abc_action_button_min_height_material</item>
+    </style>
+    <style name="SnackBarDescriptionTextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">24.0dip</item>
+        <item name="android:paddingRight">24.0dip</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="ToastFragmentStyle">
+        <item name="android:layout_gravity">bottom|center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="BannerLayoutStyle.UpgradeMandatoryContainer" parent="@style/BannerLayoutStyle">
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:paddingBottom">12.0dip</item>
+        <item name="android:layout_span">@integer/grid_column_count</item>
+    </style>
+    <style name="FilterBarFilterFrame">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+</resources>

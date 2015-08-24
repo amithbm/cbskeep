@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d நிகழ்வுகளுக்கு</item>
+        <item quantity="one">%d நிகழ்விற்கு</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="one">%d நாளுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d வாரங்களுக்கு ஒருமுறை</item>
+        <item quantity="one">%d வாரத்திற்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="one">%d மாதத்திற்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="one">%d ஆண்டிற்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d முறைகள்</item>
+        <item quantity="one">; ஒரு முறை</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="one">தினசரி</item>
+        <item quantity="two">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="few">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="many">%d நாட்களுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="one">தினசரி</item>
+        <item quantity="two">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="few">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="many">%d நாட்களுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="one">வாரந்தோறும் - %2$s</item>
+        <item quantity="two">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="few">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="many">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="one">வாரந்தோறும் - %2$s</item>
+        <item quantity="two">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="few">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="many">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="one">மாதந்தோறும்</item>
+        <item quantity="two">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="few">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="many">%1$d மாதங்களுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="one">மாதந்தோறும்</item>
+        <item quantity="two">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="few">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="many">%1$d மாதங்களுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="one">ஆண்டுதோறும்</item>
+        <item quantity="two">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="few">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="many">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="one">ஆண்டுதோறும்</item>
+        <item quantity="two">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="few">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="many">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">மேலும் %d</item>
+        <item quantity="one">மேலும் %d</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d காப்பகப்படுத்தப்பட்டன</item>
+        <item quantity="one">காப்பகப்படுத்தப்பட்டது</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d மீட்டெடுக்கப்பட்டன</item>
+        <item quantity="one">மீட்டெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d குறிப்புகளை நிரந்தரமாக நீக்கவா?</item>
+        <item quantity="one">குறிப்பை நிரந்தரமாக நீக்கவா?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d குப்பைக்கு நகர்த்தப்பட்டன</item>
+        <item quantity="one">குப்பைக்கு நகர்த்தப்பட்டது</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d மீட்டமைக்கப்பட்டன</item>
+        <item quantity="one">மீட்டமைக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d உருப்படிகள் நீக்கப்பட்டன</item>
+        <item quantity="one">உருப்படி நீக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d உருப்படிகள் மீட்டமைக்கப்பட்டன</item>
+        <item quantity="one">உருப்படி மீட்டமைக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">மேலும் %d</item>
+        <item quantity="one">மேலும் %d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d உருப்படிகள்</item>
+        <item quantity="one">%d உருப்படி</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d நிமிடங்கள்</item>
+        <item quantity="one">%d நிமிடம்</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d வினாடிகள்</item>
+        <item quantity="one">%d வினாடி</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d நினைவூட்டல்கள்</item>
+        <item quantity="one">%d நினைவூட்டல்</item>
+    </plurals>
+</resources>

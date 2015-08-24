@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="note_archived">
+        <item quantity="other">Заархівавана нататак: %d</item>
+        <item quantity="one">Заархівавана нататак: %d</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Выдалена: %d</item>
+        <item quantity="one">Выдалена: %d</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d напаміны</item>
+        <item quantity="one">Напамінаў: %d</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%d фота</item>
+        <item quantity="one">%d фота</item>
+    </plurals>
+</resources>

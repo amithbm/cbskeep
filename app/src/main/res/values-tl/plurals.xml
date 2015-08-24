@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Para sa %d kaganapan</item>
+        <item quantity="one">Para sa %d kaganapan</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Bawat %d (na) araw</item>
+        <item quantity="one">Bawat %d araw</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Bawat %d (na) linggo</item>
+        <item quantity="one">Bawat %d linggo</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Bawat %d (na) buwan</item>
+        <item quantity="one">Bawat %d buwan</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Bawat %d (na) taon</item>
+        <item quantity="one">Bawat %d taon</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d (na) beses</item>
+        <item quantity="one">; isang beses</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Bawat %d (na) araw</item>
+        <item quantity="one">Araw-araw</item>
+        <item quantity="two">Bawat %d (na) araw</item>
+        <item quantity="few">Bawat %d (na) araw</item>
+        <item quantity="many">Bawat %d (na) araw</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">bawat %d (na) araw</item>
+        <item quantity="one">araw-araw</item>
+        <item quantity="two">bawat %d (na) araw</item>
+        <item quantity="few">bawat %d (na) araw</item>
+        <item quantity="many">bawat %d (na) araw</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="one">Linggu-linggo bawat %2$s</item>
+        <item quantity="two">Bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="few">Bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="many">Bawat %1$d (na) linggo bawat %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="one">linggu-linggo bawat %2$s</item>
+        <item quantity="two">bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="few">bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="many">bawat %1$d (na) linggo bawat %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Bawat %1$d (na) buwan</item>
+        <item quantity="one">Buwan-buwan</item>
+        <item quantity="two">Bawat %1$d (na) buwan</item>
+        <item quantity="few">Bawat %1$d (na) buwan</item>
+        <item quantity="many">Bawat %1$d (na) buwan</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">bawat %1$d (na) buwan</item>
+        <item quantity="one">buwan-buwan</item>
+        <item quantity="two">bawat %1$d (na) buwan</item>
+        <item quantity="few">bawat %1$d (na) buwan</item>
+        <item quantity="many">bawat %1$d (na) buwan</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Bawat %1$d (na) taon</item>
+        <item quantity="one">Taun-taon</item>
+        <item quantity="two">Bawat %1$d (na) taon</item>
+        <item quantity="few">Bawat %1$d (na) taon</item>
+        <item quantity="many">Bawat %1$d (na) taon</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">bawat %1$d (na) taon</item>
+        <item quantity="one">taun-taon</item>
+        <item quantity="two">bawat %1$d (na) taon</item>
+        <item quantity="few">bawat %1$d (na) taon</item>
+        <item quantity="many">bawat %1$d (na) taon</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">+%d na higit pa</item>
+        <item quantity="one">+%d higit pa</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d na na-archive</item>
+        <item quantity="one">%d na-archive</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d na inalis sa archive</item>
+        <item quantity="one">%d inalis sa archive</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">I-delete ang %d na tala nang tuluyan?</item>
+        <item quantity="one">I-delete ang %d tala nang tuluyan?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d na inilipat sa Trash</item>
+        <item quantity="one">%d inilipat sa Trash</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d na naipanumbalik</item>
+        <item quantity="one">%d naipanumbalik</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d na na-delete na item</item>
+        <item quantity="one">%d na-delete na item</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d na naipanumbalik na item</item>
+        <item quantity="one">%d naipanumbalik na item</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d na higit pa</item>
+        <item quantity="one">+%d higit pa</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d na item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d na minuto</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d na segundo</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d na paalala</item>
+        <item quantity="one">%d paalala</item>
+    </plurals>
+</resources>

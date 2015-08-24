@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="browse_index_side_padding">22.0dip</dimen>
+    <dimen name="notes_list_side_margin">0.0dip</dimen>
+</resources>

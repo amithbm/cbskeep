@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:background="@drawable/dotted_line" style="@style/ReminderDividerStyle" />
+    <FrameLayout android:id="@id/editor_reminder" style="@style/ReminderHeaderStyle">
+        <LinearLayout android:id="@id/reminder_header" android:background="?selectableItemBackgroundBorderless" style="@style/ReminderInlineEditorStyle">
+            <ImageView android:src="@drawable/ic_material_reminder_finger_dark" android:contentDescription="@string/reminder_icon_content_description" style="@style/ReminderInlineEditorIconStyle" />
+            <TextView android:textColor="@color/primary_text_color" android:id="@id/reminder_header_text" android:text="@string/reminder_add_new" android:maxLines="2" android:singleLine="false" style="@style/ReminderHeaderTextStyle" />
+            <ImageView android:id="@id/reminder_delete" android:visibility="gone" android:contentDescription="@string/reminder_remove" style="@style/ReminderInlineDeleteButtonStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/reminder_editor" android:visibility="gone" style="@style/ReminderInlineEditorStyle">
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.google.android.keep.ui.ReminderSpinner android:gravity="top" android:layout_gravity="top" android:id="@id/reminder_type_spinner" android:background="@drawable/editor_spinner_background_selector" style="@style/ReminderInlineSpinnerStyle" />
+                <com.google.android.keep.ui.ReminderSpinner android:id="@id/date_spinner" android:background="@drawable/editor_spinner_background_selector" style="@style/ReminderInlineSpinnerStyle" />
+                <com.google.android.keep.ui.ReminderSpinner android:id="@id/time_spinner" android:background="@drawable/editor_spinner_background_selector" style="@style/ReminderInlineSpinnerStyle" />
+                <FrameLayout android:layout_gravity="top" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="10.0">
+                    <com.google.android.keep.ui.ReminderSpinner android:id="@id/location_spinner" android:background="@drawable/editor_spinner_background_selector" style="@style/ReminderInlineSpinnerStyle" />
+                    <TextView android:id="@id/location_text_view" android:background="@drawable/editor_spinner_background_selector" android:text="@string/remind_custom_location" style="@style/ReminderTextHintStyle" />
+                </FrameLayout>
+                <View style="@style/ReminderInlineSpaceStyle" />
+                <ImageView android:id="@id/reminder_editor_delete" android:contentDescription="@string/reminder_remove" style="@style/ReminderInlineDeleteButtonStyle" />
+            </LinearLayout>
+            <com.google.android.keep.ui.ReminderSpinner android:id="@id/recurrence_spinner" android:background="@drawable/editor_spinner_background_selector" android:paddingBottom="4.0dip" android:layout_marginTop="8.0dip" style="@style/ReminderInlineRecurrenceSpinnerStyle" />
+        </LinearLayout>
+    </FrameLayout>
+    <ViewStub android:id="@id/stub_readonly_reminder" android:layout="@layout/editor_reminder_summary" android:inflatedId="@id/readonly_reminder" style="@style/ReminderHeaderStyle" />
+</LinearLayout>

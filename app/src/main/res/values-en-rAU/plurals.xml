@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_more">
+        <item quantity="other">+%d more</item>
+        <item quantity="one">+%d more</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d archived</item>
+        <item quantity="one">Note archived</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d unarchived</item>
+        <item quantity="one">Note unarchived</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Delete %d notes forever?</item>
+        <item quantity="one">Delete note forever?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d moved to recycle bin</item>
+        <item quantity="one">Note moved to recycle bin</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d restored</item>
+        <item quantity="one">Note restored</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d items deleted</item>
+        <item quantity="one">Item deleted</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d items restored</item>
+        <item quantity="one">Item restored</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d more</item>
+        <item quantity="one">+%d more</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d reminders</item>
+        <item quantity="one">%d reminder</item>
+    </plurals>
+</resources>

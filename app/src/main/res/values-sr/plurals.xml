@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">За %d догађаја</item>
+        <item quantity="one">За %d догађај</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">На %d дана</item>
+        <item quantity="one">На %d дан</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">На %d недеља</item>
+        <item quantity="one">На %d недељу</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">На %d месеци</item>
+        <item quantity="one">На %d месец</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">На %d година</item>
+        <item quantity="one">На %d годину</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d пут(а)</item>
+        <item quantity="one">; једанпут</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">На %d дана</item>
+        <item quantity="one">Сваког дана</item>
+        <item quantity="two">На %d дана</item>
+        <item quantity="few">На %d дана</item>
+        <item quantity="many">На %d дана</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">на %d дана</item>
+        <item quantity="one">сваког дана</item>
+        <item quantity="two">на %d дана</item>
+        <item quantity="few">на %d дана</item>
+        <item quantity="many">на %d дана</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">На %1$d недеља (%2$s)</item>
+        <item quantity="one">Сваке недеље (%2$s)</item>
+        <item quantity="two">На %1$d недеље (%2$s)</item>
+        <item quantity="few">На %1$d недеље (%2$s)</item>
+        <item quantity="many">На %1$d недеља (%2$s)</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">на %1$d недеља (%2$s)</item>
+        <item quantity="one">сваке недеље (%2$s)</item>
+        <item quantity="two">на %1$d недеље (%2$s)</item>
+        <item quantity="few">на %1$d недеље (%2$s)</item>
+        <item quantity="many">на %1$d недеља (%2$s)</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">На %1$d месеци</item>
+        <item quantity="one">Сваког месеца</item>
+        <item quantity="two">На %1$d месеца</item>
+        <item quantity="few">На %1$d месеца</item>
+        <item quantity="many">На %1$d месеци</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">на %1$d месеци</item>
+        <item quantity="one">сваког месеца</item>
+        <item quantity="two">на %1$d месеца</item>
+        <item quantity="few">на %1$d месеца</item>
+        <item quantity="many">на %1$d месеци</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">На %1$d година</item>
+        <item quantity="one">Сваке године</item>
+        <item quantity="two">На %1$d године</item>
+        <item quantity="few">На %1$d године</item>
+        <item quantity="many">На %1$d година</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">на %1$d година</item>
+        <item quantity="one">сваке године</item>
+        <item quantity="two">на %1$d године</item>
+        <item quantity="few">на %1$d године</item>
+        <item quantity="many">на %1$d година</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">и још %d</item>
+        <item quantity="one">и још %d</item>
+        <item quantity="few">и још %d</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d бележака је архивирано</item>
+        <item quantity="one">%d белешка је архивирана</item>
+        <item quantity="few">%d белешке су архивиране</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">Архивирање %d је опозвано</item>
+        <item quantity="one">Архивирање %d је опозвано</item>
+        <item quantity="few">Архивирање %d је опозвано</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Избрисати %d бележака заувек?</item>
+        <item quantity="one">Избрисати %d белешку заувек?</item>
+        <item quantity="few">Избрисати %d белешке заувек?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d је премештено у Отпад</item>
+        <item quantity="one">%d је премештена у Отпад</item>
+        <item quantity="few">%d су премештене у Отпад</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d бележака је враћено</item>
+        <item quantity="one">%d белешка је враћена</item>
+        <item quantity="few">%d белешке су враћене</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d ставки је избрисано</item>
+        <item quantity="one">%d ставка је избрисана</item>
+        <item quantity="few">%d ставке су избрисане</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d ставки је враћено</item>
+        <item quantity="one">%d ставка је враћена</item>
+        <item quantity="few">%d ставке су враћене</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">и још %d</item>
+        <item quantity="one">и још %d</item>
+        <item quantity="few">и још %d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d ставки</item>
+        <item quantity="one">%d ставка</item>
+        <item quantity="few">%d ставке</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d минута</item>
+        <item quantity="one">%d минут</item>
+        <item quantity="few">%d минута</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунде</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d подсетника</item>
+        <item quantity="one">%d подсетник</item>
+        <item quantity="few">%d подсетника</item>
+    </plurals>
+</resources>

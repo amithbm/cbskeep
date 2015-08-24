@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_more">
+        <item quantity="other">Дагы +%d</item>
+        <item quantity="one">Дагы +%d</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d архивделди</item>
+        <item quantity="one">Кыска жазуу архивделди</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d архивден чыгарылды</item>
+        <item quantity="one">Кыск жазуу архивдн чыгрлд</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d кыска жазуу биротоло жок кылынсынбы?</item>
+        <item quantity="one">Кыска жазуу биротоло жок кылынсынбы?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d таштандыга жылдырылды</item>
+        <item quantity="one">Кыск жзуу таштндг жылдрлд</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d калыбына келтирилди</item>
+        <item quantity="one">Кыск жазуу калыбн келтрлд</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d нерсе жок кылынды</item>
+        <item quantity="one">Нерсе жок кылынды</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d нерсе калыбына келтирилди</item>
+        <item quantity="one">Нерсе калыбына келтирилди</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">Дагы +%d</item>
+        <item quantity="one">Дагы +%d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d нерсе</item>
+        <item quantity="one">%d нерсе</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d мүнөт</item>
+        <item quantity="one">%d мүнөт</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунд</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d эстеткич</item>
+        <item quantity="one">%d эстеткич</item>
+    </plurals>
+</resources>

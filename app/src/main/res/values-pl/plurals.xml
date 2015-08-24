@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Dla %d wystąpienia</item>
+        <item quantity="one">Dla %d wydarzenia</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Co %d dni</item>
+        <item quantity="one">Co %d dzień</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Co %d tyg.</item>
+        <item quantity="one">Co %d tydzień</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Co %d mies.</item>
+        <item quantity="one">Co %d miesiąc</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Co %d lat(a)</item>
+        <item quantity="one">Co %d rok</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d razy</item>
+        <item quantity="one">; jeden raz</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Co %d dni</item>
+        <item quantity="one">Codziennie</item>
+        <item quantity="two">Co %d dni</item>
+        <item quantity="few">Co %d dni</item>
+        <item quantity="many">Co %d dni</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">co %d dni</item>
+        <item quantity="one">codziennie</item>
+        <item quantity="two">co %d dni</item>
+        <item quantity="few">co %d dni</item>
+        <item quantity="many">co %d dni</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Co %1$d tygodnia w: %2$s</item>
+        <item quantity="one">Co tydzień w: %2$s</item>
+        <item quantity="two">Co %1$d tygodnie w: %2$s</item>
+        <item quantity="few">Co %1$d tygodnie w: %2$s</item>
+        <item quantity="many">Co %1$d tygodni w: %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">co %1$d tygodnia w: %2$s</item>
+        <item quantity="one">co tydzień w: %2$s</item>
+        <item quantity="two">co %1$d tygodnie w: %2$s</item>
+        <item quantity="few">co %1$d tygodnie w: %2$s</item>
+        <item quantity="many">co %1$d tygodni w: %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Co %1$d miesiąca</item>
+        <item quantity="one">Co miesiąc</item>
+        <item quantity="two">Co %1$d miesiące</item>
+        <item quantity="few">Co %1$d miesiące</item>
+        <item quantity="many">Co %1$d miesięcy</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">co %1$d miesiąca</item>
+        <item quantity="one">co miesiąc</item>
+        <item quantity="two">co %1$d miesiące</item>
+        <item quantity="few">co %1$d miesiące</item>
+        <item quantity="many">co %1$d miesięcy</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Co %1$d roku</item>
+        <item quantity="one">Co rok</item>
+        <item quantity="two">Co %1$d lata</item>
+        <item quantity="few">Co %1$d lata</item>
+        <item quantity="many">Co %1$d lat</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">co %1$d roku</item>
+        <item quantity="one">co roku</item>
+        <item quantity="two">co %1$d lata</item>
+        <item quantity="few">co %1$d lata</item>
+        <item quantity="many">co %1$d lat</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">i jeszcze %d</item>
+        <item quantity="one">i jeszcze %d</item>
+        <item quantity="few">i jeszcze %d</item>
+        <item quantity="many">i jeszcze %d</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d zarchiwizowane</item>
+        <item quantity="one">Notatka zarchiwizowana</item>
+        <item quantity="few">%d zarchiwizowane</item>
+        <item quantity="many">%d zarchiwizowanych</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d przywrócone z archiwum</item>
+        <item quantity="one">Notatka przywrócona z archiwum</item>
+        <item quantity="few">%d przywrócone z archiwum</item>
+        <item quantity="many">%d przywróconych z archiwum</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Usunąć trwale %d notatki?</item>
+        <item quantity="one">Usunąć trwale notatkę?</item>
+        <item quantity="few">Usunąć trwale %d notatki?</item>
+        <item quantity="many">Usunąć trwale %d notatek?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d przeniesione do kosza</item>
+        <item quantity="one">Notatka została przeniesiona do kosza</item>
+        <item quantity="few">%d przeniesione do kosza</item>
+        <item quantity="many">%d przeniesionych do kosza</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d przywrócone</item>
+        <item quantity="one">Notatka przywrócona</item>
+        <item quantity="few">%d przywrócone</item>
+        <item quantity="many">%d przywróconych</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d elementu usunięte</item>
+        <item quantity="one">Element usunięty</item>
+        <item quantity="few">%d elementy usunięte</item>
+        <item quantity="many">%d elementów usuniętych</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d elementu przywrócone</item>
+        <item quantity="one">Element przywrócony</item>
+        <item quantity="few">%d elementy przywrócone</item>
+        <item quantity="many">%d elementów przywróconych</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">i jeszcze %d</item>
+        <item quantity="one">i jeszcze %d</item>
+        <item quantity="few">i jeszcze %d</item>
+        <item quantity="many">i jeszcze %d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d elementu</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elementy</item>
+        <item quantity="many">%d elementów</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d minuty</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minut</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d sekundy</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekund</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d przypomnienia</item>
+        <item quantity="one">%d przypomnienie</item>
+        <item quantity="few">%d przypomnienia</item>
+        <item quantity="many">%d przypomnień</item>
+    </plurals>
+</resources>

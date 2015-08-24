@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/share_activity_background" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.keep.sharing.ShareesListView android:id="@id/sharing_list_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@android:color/transparent" android:divider="@null" android:dividerHeight="0.0dip" android:footerDividersEnabled="false" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/add_new_sharee_entry" android:paddingLeft="22.0dip" android:paddingTop="6.0dip" android:paddingRight="22.0dip" android:paddingBottom="6.0dip" android:layout_width="fill_parent" android:layout_height="64.0dip">
+        <ImageView android:id="@id/add_sharee_icon" android:src="@drawable/ic_sharing_add_circle" android:contentDescription="@string/sharing_add_sharee" style="@style/ShareActivityAddShareeIcon" />
+        <com.google.android.keep.ui.RecipientAutoCompleteView android:id="@id/sharee_email_edit" android:layout_width="fill_parent" android:layout_height="wrap_content" app:chipDelete="@drawable/ic_material_delete_dark" app:chipHeight="@dimen/sharing_contact_chip_height" app:chipPadding="@dimen/sharing_contacts_container_margin" app:imageSpanAlignment="baseline" style="@style/ShareActivityShareeEmailEdit" />
+    </LinearLayout>
+    <RelativeLayout android:layout_gravity="top" android:background="#ffefeeee" android:paddingLeft="12.0dip" android:paddingRight="12.0dip" android:layout_width="fill_parent" android:layout_height="?actionBarSize">
+        <ImageView android:id="@id/action_cancel" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_cancel_dark" style="@style/ShareActivityCancelButtonStyle" />
+        <TextView android:id="@id/action_done" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/ShareActivitySaveButtonStyle" />
+    </RelativeLayout>
+</FrameLayout>

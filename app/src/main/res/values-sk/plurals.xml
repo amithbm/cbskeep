@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Pre tento počet udalostí: %d</item>
+        <item quantity="one">Pre %d udalosť</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Po každých %d dňoch</item>
+        <item quantity="one">Každý %d deň</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Po každých %d týždňoch</item>
+        <item quantity="one">Každý %d týždeň</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Po každých %d mesiacoch</item>
+        <item quantity="one">Každý %d mesiac</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Každých %d rokov</item>
+        <item quantity="one">Každý %d rok</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %d-krát</item>
+        <item quantity="one">, jedenkrát</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Každých %d dní</item>
+        <item quantity="one">Denne</item>
+        <item quantity="two">Každé %d dni</item>
+        <item quantity="few">Každé %d dni</item>
+        <item quantity="many">Každých %d dní</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">každých %d dní</item>
+        <item quantity="one">denne</item>
+        <item quantity="two">každé %d dni</item>
+        <item quantity="few">každé %d dni</item>
+        <item quantity="many">každých %d dní</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Každých %1$d týždňov v: %2$s</item>
+        <item quantity="one">Každý týždeň v: %2$s</item>
+        <item quantity="two">Každé %1$d týždne v: %2$s</item>
+        <item quantity="few">Každé %1$d týždne v: %2$s</item>
+        <item quantity="many">Každých %1$d týždňov v: %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">každých %1$d týždňov v: %2$s</item>
+        <item quantity="one">každý týždeň v: %2$s</item>
+        <item quantity="two">každé %1$d týždne v: %2$s</item>
+        <item quantity="few">každé %1$d týždne v: %2$s</item>
+        <item quantity="many">každých %1$d týždňov v: %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Každých %1$d mesiacov</item>
+        <item quantity="one">Mesačne</item>
+        <item quantity="two">Každé %1$d mesiace</item>
+        <item quantity="few">Každé %1$d mesiace</item>
+        <item quantity="many">Každých %1$d mesiacov</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">každých %1$d mesiacov</item>
+        <item quantity="one">mesačne</item>
+        <item quantity="two">každé %1$d mesiace</item>
+        <item quantity="few">každé %1$d mesiace</item>
+        <item quantity="many">každých %1$d mesiacov</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Každých %1$d rokov</item>
+        <item quantity="one">Ročne</item>
+        <item quantity="two">Každé %1$d roky</item>
+        <item quantity="few">Každé %1$d roky</item>
+        <item quantity="many">Každých %1$d rokov</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">každých %1$d rokov</item>
+        <item quantity="one">ročne</item>
+        <item quantity="two">každé %1$d roky</item>
+        <item quantity="few">každé %1$d roky</item>
+        <item quantity="many">každých %1$d rokov</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">+ ďalších %d</item>
+        <item quantity="one">+ ďalšia %d</item>
+        <item quantity="few">+ ďalšie %d</item>
+        <item quantity="many">+ ďalšej %d</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d bolo archivovaných</item>
+        <item quantity="one">Poznámka bola archivovaná</item>
+        <item quantity="few">%d boli archivované</item>
+        <item quantity="many">%d bolo archivovanej</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d poznámok bolo vyňatých z archívu</item>
+        <item quantity="one">Poznámka bola vyňatá z archívu</item>
+        <item quantity="few">%d poznámky boli vyňaté z archívu</item>
+        <item quantity="many">%d unarchived</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Chcete natrvalo odstrániť %d poznámok?</item>
+        <item quantity="one">Chcete poznámku natrvalo odstrániť?</item>
+        <item quantity="few">Chcete natrvalo odstrániť %d poznámky?</item>
+        <item quantity="many">Chcete natrvalo odstrániť %d poznámky?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d bolo presunutých do koša</item>
+        <item quantity="one">Poznámka bola presunutá do koša</item>
+        <item quantity="few">%d boli presunuté do koša</item>
+        <item quantity="many">%d bolo presunutej do koša</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d bolo obnovených</item>
+        <item quantity="one">Poznámka bola obnovená</item>
+        <item quantity="few">%d boli obnovené</item>
+        <item quantity="many">%d bolo obnovenej</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d položiek odstránených</item>
+        <item quantity="one">Položka bola odstránená</item>
+        <item quantity="few">%d položky boli odstránené</item>
+        <item quantity="many">%d položky bolo odstránenej</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d položiek bolo obnovených</item>
+        <item quantity="one">Položka bola obnovená</item>
+        <item quantity="few">%d položky boli obnovené</item>
+        <item quantity="many">%d položky bolo obnovenej</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+ ďalších %d</item>
+        <item quantity="one">+ ďalšia %d</item>
+        <item quantity="few">+ ďalšie %d</item>
+        <item quantity="many">+ ďalšej %d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d položiek</item>
+        <item quantity="one">%d položka</item>
+        <item quantity="few">%d položky</item>
+        <item quantity="many">%d položky</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d minút</item>
+        <item quantity="one">%d minúta</item>
+        <item quantity="few">%d minúty</item>
+        <item quantity="many">%d minúty</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d sekúnd</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekundy</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d pripomenutí</item>
+        <item quantity="one">%d pripomenutie</item>
+        <item quantity="few">%d pripomenutia</item>
+        <item quantity="many">%d pripomenutia</item>
+    </plurals>
+</resources>

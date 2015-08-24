@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>දිනපතා නැවත කරන්න</item>
+        <item>සතිපතා නැවත කරන්න</item>
+        <item>මාස්පතා නැවත කරන්න</item>
+        <item>වාර්ෂිකව නැවත කරන්න</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>යළි සිදු වෙන්නේ නැත</item>
+        <item>සෑමදාම</item>
+        <item>සෑම සතියකම</item>
+        <item>සෑම මාසයකම</item>
+        <item>සෑම වසරකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>සෑම පළමු ඉරිදාවකම</item>
+        <item>සෑම දෙවන ඉරිදාවකම</item>
+        <item>සෑම තෙවන ඉරිදාවකම</item>
+        <item>සෑම සිව්වන ඉරිදාවකම</item>
+        <item>සෑම අවසන් ඉරිදාවකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>සෑම පළමු සඳුදාවකම</item>
+        <item>සෑම දෙවන සඳුදාවකම</item>
+        <item>සෑම තෙවන සඳුදාවකම</item>
+        <item>සෑම සිව්වන සඳුදාවකම</item>
+        <item>සෑම අවසන් සඳුදාවකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>සෑම පළමු අඟහරුවාදාකම</item>
+        <item>සෑම දෙවන අඟහරුවාදාකම</item>
+        <item>සෑම තෙවන අඟහරුවාදාකම</item>
+        <item>සෑම සිව්වන අඟහරුවාදාකම</item>
+        <item>සෑම අවසන් අඟහරුවාදාකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>සෑම පළමු බදාදාවකම</item>
+        <item>සෑම දෙවන බදාදාවකම</item>
+        <item>සෑම තෙවන බදාදාවකම</item>
+        <item>සෑම සිව්වන බදාදාවකම</item>
+        <item>සෑම අවසන් බදාදාවකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>සෑම පළමු බ්‍රහස්පතින්දාවකම</item>
+        <item>සෑම දෙවන බ්‍රහස්පතින්දාවකම</item>
+        <item>සෑම තෙවන බ්‍රහස්පතින්දාවකම</item>
+        <item>සෑම සිව්වන බ්‍රහස්පතින්දාවකම</item>
+        <item>සෑම අවසන් බ්‍රහස්පතින්දාවකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>සෑම පළමු සිකුරාදාවකම</item>
+        <item>සෑම දෙවන සිකුරාදාවකම</item>
+        <item>සෑම තෙවන සිකුරාදාවකම</item>
+        <item>සෑම සිව්වන සිකුරාදාවකම</item>
+        <item>සෑම අවසන් සිකුරාදාවකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>සෑම පළමු සෙනසුරාදාවකම</item>
+        <item>සෑම දෙවන සෙනසුරාදාවකම</item>
+        <item>සෑම තෙවන සෙනසුරාදාවකම</item>
+        <item>සෑම සිව්වන සෙනසුරාදාවකම</item>
+        <item>සෑම අවසන් සෙනසුරාදාවකම</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>මධ්‍යම ඕස්ට්‍රේලියානු - NT</item>
+        <item>මධ්‍යම ඕස්ට්‍රේලියානු - SA</item>
+        <item>පෙරදිග ඕස්ට්‍රේලියානු - QLD</item>
+        <item>පෙරදිග ඕස්ට්‍රේලියානු - NSW</item>
+        <item>සම්මත කඳුකර - ඩෝසන් ක්‍රීක්</item>
+        <item>සම්මත මධ්‍යම - සස්කචෙවාන්</item>
+        <item>සම්මත පෙරදිග - ඇටිකොකාන්</item>
+        <item>සම්මත අත්ලාන්තික් - ක්යුබෙක්</item>
+        <item>හවායි-අලෙවුතියන් - හවායි</item>
+        <item>හවායි-අලෙවුතියන් - ඇලස්කාව</item>
+        <item>සම්මත පැසිෆික් - මෙට්ලකට්ලා</item>
+        <item>සම්මත කඳුකර - ඇරිසෝනා</item>
+        <item>පැසිෆික් - බාජා කැලිෆෝනියා</item>
+        <item>කඳුකර - චිහුආහුආ</item>
+        <item>මධ්‍යම - ටමවුලිපාස්</item>
+        <item>කඳුකරය - සොනෝරා</item>
+        <item>නැගෙනහිර අප්‍රිකානු වේලාව</item>
+        <item>සම්මත අත්ලාන්තික් වේලාව</item>
+        <item>සම්මත අත්ලාන්තික් වේලාව</item>
+        <item>නැගෙනහිර යුරෝපා වේලාව</item>
+        <item>කලිනින්ග්‍රාඩ් වේලාව</item>
+        <item>ඇමේසන් - රොන්ඩොනියා</item>
+        <item>බ්‍රසිලියා - පාරා</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>සින්ට් මාර්ටන්</item>
+        <item>කැරිබියානු නෙදර්ලන්තය</item>
+        <item>කියුරැකො</item>
+        <item>දකුණු සුඩානය</item>
+    </string-array>
+    <string-array name="note_color_palette_descriptions">
+        <item>සුදු</item>
+        <item>රතු</item>
+        <item>තැඹිලි</item>
+        <item>කහ</item>
+        <item>කොළ</item>
+        <item>සේරා</item>
+        <item>නිල්</item>
+        <item>අළු</item>
+    </string-array>
+</resources>

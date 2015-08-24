@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d eseményhez</item>
+        <item quantity="one">%d eseményhez</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d naponta</item>
+        <item quantity="one">%d naponta</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d hetente</item>
+        <item quantity="one">%d hetente</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d havonta</item>
+        <item quantity="one">%d havonta</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d évente</item>
+        <item quantity="one">%d évente</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d alkalommal</item>
+        <item quantity="one">; egyszer</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d naponta</item>
+        <item quantity="one">Naponta</item>
+        <item quantity="two">%d naponta</item>
+        <item quantity="few">%d naponta</item>
+        <item quantity="many">%d naponta</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">%d naponta</item>
+        <item quantity="one">naponta</item>
+        <item quantity="two">%d naponta</item>
+        <item quantity="few">%d naponta</item>
+        <item quantity="many">%d naponta</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d hetente – %2$si napon</item>
+        <item quantity="one">Hetente – %2$si napon</item>
+        <item quantity="two">%1$d hetente – %2$si napon</item>
+        <item quantity="few">%1$d hetente – %2$si napon</item>
+        <item quantity="many">%1$d hetente – %2$si napon</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">%1$d hetente – %2$si napon</item>
+        <item quantity="one">hetente – %2$si napon</item>
+        <item quantity="two">%1$d hetente – %2$si napon</item>
+        <item quantity="few">%1$d hetente – %2$si napon</item>
+        <item quantity="many">%1$d hetente – %2$si napon</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d havonta</item>
+        <item quantity="one">Havonta</item>
+        <item quantity="two">%1$d havonta</item>
+        <item quantity="few">%1$d havonta</item>
+        <item quantity="many">%1$d havonta</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">%1$d havonta</item>
+        <item quantity="one">havonta</item>
+        <item quantity="two">%1$d havonta</item>
+        <item quantity="few">%1$d havonta</item>
+        <item quantity="many">%1$d havonta</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d évente</item>
+        <item quantity="one">Évente</item>
+        <item quantity="two">%1$d évente</item>
+        <item quantity="few">%1$d évente</item>
+        <item quantity="many">%1$d évente</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">%1$d évente</item>
+        <item quantity="one">évente</item>
+        <item quantity="two">%1$d évente</item>
+        <item quantity="few">%1$d évente</item>
+        <item quantity="many">%1$d évente</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">%d további</item>
+        <item quantity="one">%d további</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d archiválva</item>
+        <item quantity="one">Jegyzet archiválva</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d archiválása visszavonva</item>
+        <item quantity="one">Archiválás visszavonva</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Végleg töröl %d jegyzetet?</item>
+        <item quantity="one">Végleg törli a jegyzetet?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d áthelyezve a kukába</item>
+        <item quantity="one">Áthelyezve a kukába</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d visszaállítva</item>
+        <item quantity="one">Jegyzet visszaállítva</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d elem törölve</item>
+        <item quantity="one">Elem törölve</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d elem visszaállítva</item>
+        <item quantity="one">Elem visszaállítva</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">%d további</item>
+        <item quantity="one">%d további</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d elem</item>
+        <item quantity="one">%d elem</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="one">%d másodperc</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d emlékeztető</item>
+        <item quantity="one">%d emlékeztető</item>
+    </plurals>
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d арга хэмжээ</item>
+        <item quantity="one">%d арга хэмжээ</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d өдөр бүр</item>
+        <item quantity="one">%d өдөр бүр</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d долоо хоног бүр</item>
+        <item quantity="one">%d долоо хоног бүр</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d сар тб</item>
+        <item quantity="one">%d сар бүр</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d жил бүр</item>
+        <item quantity="one">%d жил бүр</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d удаа</item>
+        <item quantity="one">; нэг удаа</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d өдөр бүр</item>
+        <item quantity="one">Өдөр бүр</item>
+        <item quantity="two">%d өдөр бүр</item>
+        <item quantity="few">%d өдөр бүр</item>
+        <item quantity="many">%d өдөр бүр</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">%d өдөр тутам</item>
+        <item quantity="one">өдөр бүр</item>
+        <item quantity="two">%d өдөр тутам</item>
+        <item quantity="few">%d өдөр тутам</item>
+        <item quantity="many">%d өдөр тутам</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d долоо хоног бүрийн %2$s</item>
+        <item quantity="one">Долоо хоног бүрийн %2$s</item>
+        <item quantity="two">%1$d долоо хоног бүрийн %2$s</item>
+        <item quantity="few">%1$d долоо хоног бүрийн %2$s</item>
+        <item quantity="many">%1$d долоо хоног бүрийн %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">%1$d долоо хоног тутмын %2$s</item>
+        <item quantity="one">долоо хоног бүрийн %2$s</item>
+        <item quantity="two">%1$d долоо хоног тутмын %2$s</item>
+        <item quantity="few">%1$d долоо хоног тутмын %2$s</item>
+        <item quantity="many">%1$d долоо хоног тутмын %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d сар бүр</item>
+        <item quantity="one">Сар бүр</item>
+        <item quantity="two">%1$d сар бүр</item>
+        <item quantity="few">%1$d сар бүр</item>
+        <item quantity="many">%1$d сар бүр</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">%1$d сар тутам</item>
+        <item quantity="one">сар бүр</item>
+        <item quantity="two">%1$d сар тутам</item>
+        <item quantity="few">%1$d сар тутам</item>
+        <item quantity="many">%1$d сар тутам</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d жил бүр</item>
+        <item quantity="one">Жил бүр</item>
+        <item quantity="two">%1$d жил бүр</item>
+        <item quantity="few">%1$d жил бүр</item>
+        <item quantity="many">%1$d жил бүр</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">%1$d жил тутам</item>
+        <item quantity="one">жил бүр</item>
+        <item quantity="two">%1$d жил тутам</item>
+        <item quantity="few">%1$d жил тутам</item>
+        <item quantity="many">%1$d жил тутам</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">+%d илүү</item>
+        <item quantity="one">+%d илүү</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d архивласан</item>
+        <item quantity="one">Тэмдэглэлийг архивласан</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d архиваас гаргасан</item>
+        <item quantity="one">Тэмдэглэлийг архиваас гаргасан</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d тэмдэглэлийг бүрмөсөн устгах уу?</item>
+        <item quantity="one">Тэмдэглэлийг бүрмөсөн устгах уу?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d хогийн саванд хийсэн</item>
+        <item quantity="one">Тэмдэглэлийг хогийн саванд хийсэн</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d сэргээсэн</item>
+        <item quantity="one">Тэмдэглэл сэргээсэн</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d зүйлийг устгалаа</item>
+        <item quantity="one">Зүйлийг устгалаа</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d зүйл сэргээлээ</item>
+        <item quantity="one">Зүйлийг сэргээлээ</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d илүү</item>
+        <item quantity="one">+%d илүү</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d зүйл</item>
+        <item quantity="one">%d зүйл</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минут</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунд</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d сануулагч</item>
+        <item quantity="one">%d сануулагч</item>
+    </plurals>
+</resources>

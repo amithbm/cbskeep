@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/BannerLayoutStyle.UpgradeAvailable"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/app_upgrade_text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/BannerTextStyle" />
+    <ImageView android:id="@id/app_upgrade_dismiss" android:contentDescription="@string/app_upgrade_close_content_description" style="@style/BannerDismissButtonStyle" />
+</LinearLayout>

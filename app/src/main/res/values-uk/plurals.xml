@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Для стількох подій: %d</item>
+        <item quantity="one">Для %d події</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Кожні %d дн.</item>
+        <item quantity="one">Кожен %d день</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Кожні %d тижн.</item>
+        <item quantity="one">Кожен %d тиждень</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Кожні %d міс.</item>
+        <item quantity="one">Кожен %d місяць</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Кожні %d р.</item>
+        <item quantity="one">Кожен %d рік</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; разів: %d</item>
+        <item quantity="one">; один раз</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Кожні %d дн.</item>
+        <item quantity="one">Щоденно</item>
+        <item quantity="two">Кожні %d дн.</item>
+        <item quantity="few">Кожні %d дн.</item>
+        <item quantity="many">Кожні %d дн.</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">кожні %d дн.</item>
+        <item quantity="one">щодня</item>
+        <item quantity="two">кожні %d дн.</item>
+        <item quantity="few">кожні %d дн.</item>
+        <item quantity="many">кожні %d дн.</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Кожні %1$d тижн. у %2$s</item>
+        <item quantity="one">Щотижня в такий день: %2$s</item>
+        <item quantity="two">Кожні %1$d тижн. у %2$s</item>
+        <item quantity="few">Кожні %1$d тижн. у %2$s</item>
+        <item quantity="many">Кожні %1$d тижн. у %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">кожні %1$d тижн. у %2$s</item>
+        <item quantity="one">щотижня в такий день: %2$s</item>
+        <item quantity="two">кожні %1$d тижн. у %2$s</item>
+        <item quantity="few">кожні %1$d тижн. у %2$s</item>
+        <item quantity="many">кожні %1$d тижн. у %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Кожні %1$d міс.</item>
+        <item quantity="one">Щомісяця</item>
+        <item quantity="two">Кожні %1$d міс.</item>
+        <item quantity="few">Кожні %1$d міс.</item>
+        <item quantity="many">Кожні %1$d міс.</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">кожні %1$d міс.</item>
+        <item quantity="one">щомісяця</item>
+        <item quantity="two">кожні %1$d міс.</item>
+        <item quantity="few">кожні %1$d міс.</item>
+        <item quantity="many">кожні %1$d міс.</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Кожні %1$d р.</item>
+        <item quantity="one">Щороку</item>
+        <item quantity="two">Кожні %1$d р.</item>
+        <item quantity="few">Кожні %1$d р.</item>
+        <item quantity="many">Кожні %1$d р.</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">кожні %1$d р.</item>
+        <item quantity="one">щороку</item>
+        <item quantity="two">кожні %1$d р.</item>
+        <item quantity="few">кожні %1$d р.</item>
+        <item quantity="many">кожні %1$d р.</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">+ ще %d</item>
+        <item quantity="one">+ ще %d</item>
+        <item quantity="few">+ ще %d</item>
+        <item quantity="many">+ ще %d</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d нотатки заархівовано</item>
+        <item quantity="one">%d нотатку заархівовано</item>
+        <item quantity="few">%d нотатки заархівовано</item>
+        <item quantity="many">%d нотаток заархівовано</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d нотатки розархівовано</item>
+        <item quantity="one">%d нотатку розархівовано</item>
+        <item quantity="few">%d нотатки розархівовано</item>
+        <item quantity="many">%d нотаток розархівовано</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Видалити %d нотатки назавжди?</item>
+        <item quantity="one">Видалити %d нотатку назавжди?</item>
+        <item quantity="few">Видалити %d нотатки назавжди?</item>
+        <item quantity="many">Видалити %d нотаток назавжди?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d нотатки додано в кошик</item>
+        <item quantity="one">%d нотатку додано в кошик</item>
+        <item quantity="few">%d нотатки додано в кошик</item>
+        <item quantity="many">%d нотаток додано в кошик</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d нотатки відновлено</item>
+        <item quantity="one">%d нотатку відновлено</item>
+        <item quantity="few">%d нотатки відновлено</item>
+        <item quantity="many">%d нотаток відновлено</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d пункту видалено</item>
+        <item quantity="one">%d пункт видалено</item>
+        <item quantity="few">%d пункти видалено</item>
+        <item quantity="many">%d пунктів видалено</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d пункту відновлено</item>
+        <item quantity="one">%d пункт відновлено</item>
+        <item quantity="few">%d пункти відновлено</item>
+        <item quantity="many">%d пунктів відновлено</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+ ще %d</item>
+        <item quantity="one">+ ще %d</item>
+        <item quantity="few">+ ще %d</item>
+        <item quantity="many">+ ще %d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d пункту</item>
+        <item quantity="one">%d пункт</item>
+        <item quantity="few">%d пункти</item>
+        <item quantity="many">%d пунктів</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d хвилини</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="few">%d хвилини</item>
+        <item quantity="many">%d хвилин</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунди</item>
+        <item quantity="many">%d секунд</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d нагадування</item>
+        <item quantity="one">%d нагадування</item>
+        <item quantity="few">%d нагадування</item>
+        <item quantity="many">%d нагадувань</item>
+    </plurals>
+</resources>

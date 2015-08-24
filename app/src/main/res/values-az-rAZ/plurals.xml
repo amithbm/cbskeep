@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_more">
+        <item quantity="other">+%d daha</item>
+        <item quantity="one">+%d daha</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d arxivləndi</item>
+        <item quantity="one">Qeyd arxivləndi</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d arxivdən çıxarıldı</item>
+        <item quantity="one">Qeyd arxivdən çıxarıldı</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d qeyd həmişəlik silinsin?</item>
+        <item quantity="one">Qeyd həmişəlik silinsin?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d Zibil qutusuna köçürüldü</item>
+        <item quantity="one">Qeyd Zibil qutusuna köçürüldü</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d bərpa olundu</item>
+        <item quantity="one">Qeyd bərpa olundu</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d element silindi</item>
+        <item quantity="one">Element silindi</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d element bərpa edildi</item>
+        <item quantity="one">Element bərpa edildi</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d daha</item>
+        <item quantity="one">+%d daha</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d element</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d dəqiqə</item>
+        <item quantity="one">%d dəqiqə</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d saniyə</item>
+        <item quantity="one">%d saniyə</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d xatırlatma</item>
+        <item quantity="one">%d xatırlatma</item>
+    </plurals>
+</resources>

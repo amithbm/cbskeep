@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Kwa matukio %d</item>
+        <item quantity="one">Kwa tukio %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Kila baada ya siku %d</item>
+        <item quantity="one">Kila baada ya siku %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Kila baada ya wiki %d</item>
+        <item quantity="one">Kila baada ya wiki %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Kila baada ya miezi %d</item>
+        <item quantity="one">Kila baada ya mwezi %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Kila baada ya miaka %d</item>
+        <item quantity="one">Kila baada ya mwaka %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; kwa mara %d</item>
+        <item quantity="one">; kwa mara moja</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Kila baada ya siku %d</item>
+        <item quantity="one">Kila siku</item>
+        <item quantity="two">Kila baada ya siku %d</item>
+        <item quantity="few">Kila baada ya siku %d</item>
+        <item quantity="many">Kila baada ya siku %d</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">kila baada ya siku %d</item>
+        <item quantity="one">kila siku</item>
+        <item quantity="two">kila baada ya siku %d</item>
+        <item quantity="few">kila baada ya siku %d</item>
+        <item quantity="many">kila baada ya siku %d</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Kila baada ya wiki %1$d siku ya %2$s</item>
+        <item quantity="one">Kila wiki siku ya %2$s</item>
+        <item quantity="two">Kila baada ya wiki %1$d siku ya %2$s</item>
+        <item quantity="few">Kila baada ya wiki %1$d siku ya %2$s</item>
+        <item quantity="many">Kila baada ya wiki %1$d siku ya %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">kila baada ya wiki %1$d siku ya %2$s</item>
+        <item quantity="one">kila wiki siku ya %2$s</item>
+        <item quantity="two">kila baada ya wiki %1$d siku ya %2$s</item>
+        <item quantity="few">kila baada ya wiki %1$d siku ya %2$s</item>
+        <item quantity="many">kila baada ya wiki %1$d siku ya %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Kila baada ya miezi %1$d</item>
+        <item quantity="one">Kila mwezi</item>
+        <item quantity="two">Kila baada ya miezi %1$d</item>
+        <item quantity="few">Kila baada ya miezi %1$d</item>
+        <item quantity="many">Kila baada ya miezi %1$d</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">kila baada ya miezi %1$d</item>
+        <item quantity="one">kila mwezi</item>
+        <item quantity="two">kila baada ya miezi %1$d</item>
+        <item quantity="few">kila baada ya miezi %1$d</item>
+        <item quantity="many">kila baada ya miezi %1$d</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Kila baada ya miaka %1$d</item>
+        <item quantity="one">Kila mwaka</item>
+        <item quantity="two">Kila baada ya miaka %1$d</item>
+        <item quantity="few">Kila baada ya miaka %1$d</item>
+        <item quantity="many">Kila baada ya miaka %1$d</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">kila baada ya miaka %1$d</item>
+        <item quantity="one">kila mwaka</item>
+        <item quantity="two">kila baada ya miaka %1$d</item>
+        <item quantity="few">kila baada ya miaka %1$d</item>
+        <item quantity="many">kila baada ya miaka %1$d</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">%d+ zaidi</item>
+        <item quantity="one">%d+ zaidi</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">Madokezo %d yamewekwa kwenye kumbukumbu</item>
+        <item quantity="one">Dokezo limewekwa kwenye kumbukumbu</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">Madokezo %d yameondolewa kwenye kumbukumbu</item>
+        <item quantity="one">Dokezo limeondolewa kwenye kumbukumbu</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Ungependa kufuta madokezo %d kabisa?</item>
+        <item quantity="one">Ungependa kufuta dokezo kabisa?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">Madokezo %d yamehamishiwa kwenye Tupio</item>
+        <item quantity="one">Dokezo limehamishiwa kwenye Tupio</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">Madokezo %d yamerejeshwa</item>
+        <item quantity="one">Dokezo limerejeshwa</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">Vipengee %d vimefutwa</item>
+        <item quantity="one">Kipengee kimefutwa</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">Vipengee %d vimerejeshwa</item>
+        <item quantity="one">Kipengee kimerejeshwa</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">%d+ zaidi</item>
+        <item quantity="one">%d+ zaidi</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">Vipengee %d</item>
+        <item quantity="one">Kipengee %d</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika %d</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">Sekunde %d</item>
+        <item quantity="one">Sekunde %d</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">Vikumbusho %d</item>
+        <item quantity="one">Kikumbusho %d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_gravity="center_vertical" android:background="@drawable/note_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_span="2" class="com.google.android.keep.ui.BrowseViewGroup"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/backdrop" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/WelcomeCard.Backdrop">
+        <TextView android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/whats_new_in_keep" style="@style/WelcomeCard.Title" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/whats_new_title" style="@style/WelcomeCard.Header" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/whats_new_description" style="@style/WelcomeCard.Text" />
+        <View android:id="@id/divider" android:background="#4cffffff" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/got_it_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/welcome_card_got_it_description">
+            <ImageView android:id="@id/check" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_menu_done_light" android:scaleType="center" />
+            <TextView android:id="@id/got_it_button" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/welcome_card_got_it" android:layout_weight="1.0" style="@style/WelcomeCard.GotItText" />
+        </LinearLayout>
+    </LinearLayout>
+</view>

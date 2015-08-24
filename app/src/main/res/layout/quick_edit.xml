@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.keep.ui.QuickEditLayout android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Qeb"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_gravity="center_vertical" android:id="@id/quick_edit_box_edit_text" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/QebTextStyle" />
+    <include android:layout_width="wrap_content" android:layout_height="?actionBarSize" layout="@layout/quick_edit_options_layout" style="@style/QebOptionsLayoutStyle" />
+    <ImageView android:id="@id/expand_button" android:background="?selectableItemBackgroundBorderless" android:visibility="gone" android:layout_width="@dimen/qeb_button_size" android:layout_height="wrap_content" android:src="@drawable/ic_material_expand_note_dark" android:contentDescription="@string/full_screen" style="@style/QebOptionsLayoutStyle" />
+</com.google.android.keep.ui.QuickEditLayout>

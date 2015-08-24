@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="note_archived">
+        <item quantity="other">%d diarkibkan</item>
+        <item quantity="one">%d diarkibkan</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d dipadam</item>
+        <item quantity="one">%d dipadam</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d lagi</item>
+        <item quantity="one">+%d lagi</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d peringatan</item>
+        <item quantity="one">%d peringatan</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+</resources>

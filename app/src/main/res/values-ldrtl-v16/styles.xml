@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShareActivitySaveButtonStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/share_activity_save_text_color_enabled</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:text">@string/save</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:contentDescription">@string/save</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="DrawerHeaderItemTextStyle" parent="@style/DrawerTextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/drawer_header_color</item>
+        <item name="android:layout_gravity">center|right</item>
+        <item name="android:paddingTop">12.0dip</item>
+        <item name="android:paddingBottom">12.0dip</item>
+        <item name="android:layout_marginLeft">22.0dip</item>
+        <item name="android:layout_marginRight">22.0dip</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+</resources>

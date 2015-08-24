@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_more">
+        <item quantity="other">+%d ਹੋਰ</item>
+        <item quantity="one">+%d ਹੋਰ</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d ਆਰਕਾਈਵ ਕੀਤੀ</item>
+        <item quantity="one">%d ਆਰਕਾਈਵ ਕੀਤੀ</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d ਅਨਆਰਕਾਈਵ ਕੀਤੀ</item>
+        <item quantity="one">%d ਅਨਆਰਕਾਈਵ ਕੀਤੀ</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">ਕੀ%d ਸੂਚਨਾਵਾਂ ਹਮੇਸ਼ਾਂ ਮਿਟਾਉਣੀਆਂ ਹਨ?</item>
+        <item quantity="one">ਕੀ%d ਸੂਚਨਾਵਾਂ ਹਮੇਸ਼ਾਂ ਮਿਟਾਉਣੀਆਂ ਹਨ?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d ਟ੍ਰੈਸ਼ ਵਿੱਚ ਮੂਵ ਕੀਤੀਆਂ</item>
+        <item quantity="one">%d ਟ੍ਰੈਸ਼ ਵਿੱਚ ਮੂਵ ਕੀਤੀ</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d ਰੀਸਟੋਰ ਕੀਤੀ</item>
+        <item quantity="one">%d ਰੀਸਟੋਰ ਕੀਤੀ</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">%d ਆਈਟਮਾਂ ਮਿਟਾਈਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਆਈਟਮਾਂ ਮਿਟਾਈਆਂ ਗਈਆਂ</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">%d ਆਈਟਮਾਂ ਰੀਸਟੋਰ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਆਈਟਮਾਂ ਰੀਸਟੋਰ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d ਹੋਰ</item>
+        <item quantity="one">+%d ਹੋਰ</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d ਆਈਟਮਾਂ</item>
+        <item quantity="one">%d ਆਈਟਮਾਂ</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d ਮਿੰਟ</item>
+        <item quantity="one">%d ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d ਸਕਿੰਟ</item>
+        <item quantity="one">%d ਸਕਿੰਟ</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d ਰੀਮਾਈਂਡਰ</item>
+        <item quantity="one">%d ਰੀਮਾਈਂਡਰ</item>
+    </plurals>
+</resources>

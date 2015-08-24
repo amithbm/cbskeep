@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:background="@drawable/note_background" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.google.android.keep.ui.BrowseViewGroup"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/backdrop" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include layout="@layout/browse_image_layout" />
+        <TextView android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/IndexNoteTitleStyle" />
+        <view android:id="@id/description" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.google.android.keep.browse.TextNoteView" style="@style/IndexPhotoNoteDescriptionStyle" />
+        <include layout="@layout/browse_note_color_strip" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/browse_index_note_sharee_elements" />
+        <include layout="@layout/browse_label_layout_stub" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/note_attachment_elements" />
+    </LinearLayout>
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true" layout="@layout/browse_touch_layer" />
+</view>

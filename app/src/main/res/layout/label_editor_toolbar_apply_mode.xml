@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/label_editor_fragment_toolbar_background" android:layout_width="fill_parent" android:layout_height="?actionBarSize"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/back_button" android:layout_width="@dimen/toolbar_button_size" android:layout_height="fill_parent" style="@style/FilterBarBackButton" />
+    <EditText android:id="@id/label_edit_text" android:layout_width="0.0dip" android:layout_height="fill_parent" android:hint="@string/add_label" android:layout_weight="1.0" style="@style/LabelEditText.Picker" />
+</LinearLayout>

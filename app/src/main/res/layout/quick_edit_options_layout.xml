@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:orientation="horizontal" android:id="@id/add_items_layout" android:layout_width="wrap_content" android:layout_height="fill_parent" class="com.google.android.keep.ui.QebOptionsLayout"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/new_list_button" android:src="@drawable/ic_material_list_dark" android:contentDescription="@string/menu_new_list" style="@style/QebButtonStyle" />
+    <ImageView android:id="@id/new_audio_note_button" android:src="@drawable/ic_material_mic_dark" android:contentDescription="@string/menu_new_recording" style="@style/QebButtonStyle" />
+    <ImageView android:id="@id/new_photo_note_button" android:src="@drawable/ic_material_camera_dark" android:contentDescription="@string/menu_new_picture" style="@style/QebButtonStyle" />
+</view>

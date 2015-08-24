@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">لعدد %d من الأحداث</item>
+        <item quantity="one">لعدد %d حدث</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">كل %d من الأيام</item>
+        <item quantity="one">كل %d يوم</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">كل %d من الأسابيع</item>
+        <item quantity="one">كل %d أسبوع</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">كل %d من الشهور</item>
+        <item quantity="one">كل %d شهر</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">كل %d من الأعوام</item>
+        <item quantity="one">كل %d عام</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">؛ لـ %d من المرات</item>
+        <item quantity="one">؛ لمرة واحدة</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">كل %d من الأيام</item>
+        <item quantity="one">يوميًا</item>
+        <item quantity="two">كل %d من الأيام</item>
+        <item quantity="few">كل %d من الأيام</item>
+        <item quantity="many">كل %d من الأيام</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">كل %d من الأيام</item>
+        <item quantity="one">يوميًا</item>
+        <item quantity="two">كل %d من الأيام</item>
+        <item quantity="few">كل %d من الأيام</item>
+        <item quantity="many">كل %d من الأيام</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">يوم %2$s من كل %1$d من الأسابيع</item>
+        <item quantity="one">يوم %2$s من كل أسبوع</item>
+        <item quantity="two">يوم %2$s من كل %1$d من الأسابيع</item>
+        <item quantity="few">يوم %2$s من كل %1$d من الأسابيع</item>
+        <item quantity="many">يوم %2$s من كل %1$d من الأسابيع</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">يوم %2$s من كل %1$d من الأسابيع</item>
+        <item quantity="one">يوم %2$s من كل أسبوع</item>
+        <item quantity="two">يوم %2$s من كل %1$d من الأسابيع</item>
+        <item quantity="few">يوم %2$s من كل %1$d من الأسابيع</item>
+        <item quantity="many">يوم %2$s من كل %1$d من الأسابيع</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">كل %1$d من الشهور</item>
+        <item quantity="one">شهريًا</item>
+        <item quantity="two">كل %1$d من الشهور</item>
+        <item quantity="few">كل %1$d من الشهور</item>
+        <item quantity="many">كل %1$d من الشهور</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">كل %1$d من الشهور</item>
+        <item quantity="one">شهريًا</item>
+        <item quantity="two">كل %1$d من الشهور</item>
+        <item quantity="few">كل %1$d من الشهور</item>
+        <item quantity="many">كل %1$d من الشهور</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">كل %1$d من السنوات</item>
+        <item quantity="one">سنويًا</item>
+        <item quantity="two">كل %1$d من السنوات</item>
+        <item quantity="few">كل %1$d من السنوات</item>
+        <item quantity="many">كل %1$d من السنوات</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">كل %1$d من الأعوام</item>
+        <item quantity="one">سنويًا</item>
+        <item quantity="two">كل %1$d من الأعوام</item>
+        <item quantity="few">كل %1$d من الأعوام</item>
+        <item quantity="many">كل %1$d من الأعوام</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">+%d أيضًا</item>
+        <item quantity="zero">+%d أيضًا</item>
+        <item quantity="one">+%d أيضًا</item>
+        <item quantity="two">+%d أيضًا</item>
+        <item quantity="few">+%d أيضًا</item>
+        <item quantity="many">+%d أيضًا</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">تمت أرشفة %d</item>
+        <item quantity="zero">لم تتم أرشفة أية ملاحظة (%d)</item>
+        <item quantity="one">تمت أرشفة ملاحظة واحدة</item>
+        <item quantity="two">تمت أرشفة %d</item>
+        <item quantity="few">تمت أرشفة %d</item>
+        <item quantity="many">تمت أرشفة %d</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">تمت إزالة %d من الأرشيف</item>
+        <item quantity="zero">لم تتم إزالة أية ملاحظة من الأرشيف (%d)</item>
+        <item quantity="one">تمت إزالة ملاحظة واحدة من الأرشيف</item>
+        <item quantity="two">تمت إزالة ملاحظتين من الأرشيف (%d)</item>
+        <item quantity="few">تمت إزالة %d من الأرشيف</item>
+        <item quantity="many">تمت إزالة %d من الأرشيف</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">هل تريد حذف %d من الملاحظات نهائيًا؟</item>
+        <item quantity="zero">ألا تريد حذف أية ملاحظة (%d) نهائيًا؟</item>
+        <item quantity="one">هل تريد حذف الملاحظة نهائيًا؟</item>
+        <item quantity="two">هل تريد حذف ملاحظتين (%d) نهائيًا؟</item>
+        <item quantity="few">هل تريد حذف %d ملاحظات نهائيًا؟</item>
+        <item quantity="many">هل تريد حذف %d ملاحظة نهائيًا؟</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">تم نقل %d إلى المهملات</item>
+        <item quantity="zero">لم يتم نقل أية ملاحظة إلى المهملات (%d)</item>
+        <item quantity="one">تم نقل الملاحظة إلى المهملات</item>
+        <item quantity="two">تم نقل ملاحظتين إلى المهملات (%d)</item>
+        <item quantity="few">تم نقل %d إلى المهملات</item>
+        <item quantity="many">تم نقل %d إلى المهملات</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">تمت استعادة %d</item>
+        <item quantity="zero">لم تتم استعادة أية ملاحظة (%d)</item>
+        <item quantity="one">تمت استعادة الملاحظة</item>
+        <item quantity="two">تمت استعادة %d</item>
+        <item quantity="few">تمت استعادة %d</item>
+        <item quantity="many">تمت استعادة %d</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">تم حذف %d من العناصر</item>
+        <item quantity="zero">لم يتم حذف أي عنصر (%d)</item>
+        <item quantity="one">تم حذف عنصر</item>
+        <item quantity="two">تم حذف عنصرين (%d)</item>
+        <item quantity="few">تم حذف %d عناصر</item>
+        <item quantity="many">تم حذف %d عنصرًا</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">تمت استعادة %d من العناصر</item>
+        <item quantity="zero">لم تتم استعادة أي عنصر (%d)</item>
+        <item quantity="one">تمت استعادة عنصر</item>
+        <item quantity="two">تمت استعادة عنصرين (%d)</item>
+        <item quantity="few">تمت استعادة %d عناصر</item>
+        <item quantity="many">تمت استعادة %d عنصرًا</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+%d أيضًا</item>
+        <item quantity="zero">+%d أيضًا</item>
+        <item quantity="one">+%d أيضًا</item>
+        <item quantity="two">+%d أيضًا</item>
+        <item quantity="few">+%d أيضًا</item>
+        <item quantity="many">+%d أيضًا</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d من العناصر</item>
+        <item quantity="zero">ليست هناك أية عناصر (%d)</item>
+        <item quantity="one">عنصر واحد (%d)</item>
+        <item quantity="two">عنصران (%d)</item>
+        <item quantity="few">%d عناصر</item>
+        <item quantity="many">%d عنصرًا</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d من الدقائق</item>
+        <item quantity="zero">أقل من دقيقة (%d)</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">دقيقتان (%d)</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d من الثواني</item>
+        <item quantity="zero">أقل من ثانية (%d)</item>
+        <item quantity="one">%d ثانية</item>
+        <item quantity="two">ثانيتان (%d)</item>
+        <item quantity="few">%d ثوانٍ</item>
+        <item quantity="many">%d ثانية</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d من التذكيرات</item>
+        <item quantity="zero">ليس هناك أي تذكير (%d)</item>
+        <item quantity="one">تذكير واحد (%d)</item>
+        <item quantity="two">هناك تذكيران (%d)</item>
+        <item quantity="few">%d تذكيرات</item>
+        <item quantity="many">%d تذكيرًا</item>
+    </plurals>
+</resources>

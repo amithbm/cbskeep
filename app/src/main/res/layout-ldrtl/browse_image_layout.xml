@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/photoStub1" android:layout="@layout/browse_index_note_image" android:inflatedId="@id/photo1" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/photoStub2" android:layout="@layout/browse_index_note_image" android:inflatedId="@id/photo2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/photo1" />
+    <ViewStub android:id="@id/photoStub3" android:layout="@layout/browse_index_note_image" android:inflatedId="@id/photo3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/photo2" />
+    <ViewStub android:id="@id/photoStub4" android:layout="@layout/browse_index_note_image" android:inflatedId="@id/photo4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/photo1" />
+    <ViewStub android:id="@id/photoStub5" android:layout="@layout/browse_index_note_image" android:inflatedId="@id/photo5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/photo4" android:layout_below="@id/photo1" />
+    <ViewStub android:id="@id/photoStub6" android:layout="@layout/browse_index_note_image" android:inflatedId="@id/photo6" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/photo5" android:layout_below="@id/photo1" />
+</RelativeLayout>

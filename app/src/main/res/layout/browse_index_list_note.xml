@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:background="@drawable/note_background" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.google.android.keep.ui.BrowseViewGroup"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/backdrop" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/browse_index_min_note_height">
+        <include layout="@layout/browse_image_layout" />
+        <TextView android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/IndexNoteTitleStyle" />
+        <view android:id="@id/description" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.google.android.keep.browse.TextNoteView" style="@style/IndexNoteDescriptionStyle" />
+        <include android:id="@id/list_item_1" layout="@layout/browse_list_text_item" />
+        <include android:id="@id/list_item_2" layout="@layout/browse_list_text_item" />
+        <include android:id="@id/list_item_3" layout="@layout/browse_list_text_item" />
+        <include android:id="@id/list_item_4" layout="@layout/browse_list_text_item" />
+        <include android:id="@id/list_item_5" layout="@layout/browse_list_text_item" />
+        <include android:id="@id/list_item_6" layout="@layout/browse_list_text_item" />
+        <include android:id="@id/list_item_7" layout="@layout/browse_list_text_item" />
+        <include android:id="@id/list_item_8" layout="@layout/browse_list_text_item" />
+        <include android:id="@id/list_item_9" layout="@layout/browse_list_text_item" />
+        <include android:id="@id/list_item_10" layout="@layout/browse_list_text_item" />
+        <view android:id="@id/ellipse" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" class="com.google.android.keep.ui.KeepTextView" style="@style/IndexListItemEllipseStyle" />
+        <include layout="@layout/browse_note_color_strip" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/browse_index_note_sharee_elements" />
+        <include layout="@layout/browse_label_layout_stub" />
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/note_attachment_elements" />
+    </LinearLayout>
+    <include layout="@layout/browse_touch_layer" />
+</view>

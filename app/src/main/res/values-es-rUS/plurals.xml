@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">En %d eventos</item>
+        <item quantity="one">En %d evento</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Cada %d días</item>
+        <item quantity="one">Cada %d día</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Cada %d semanas</item>
+        <item quantity="one">Cada %d semana</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Cada %d meses</item>
+        <item quantity="one">Cada %d mes</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Cada %d años</item>
+        <item quantity="one">Cada %d año</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d veces</item>
+        <item quantity="one">; una sola vez</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Cada %d días</item>
+        <item quantity="one">Diariamente</item>
+        <item quantity="two">Cada %d días</item>
+        <item quantity="few">Cada %d días</item>
+        <item quantity="many">Cada %d días</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">cada %d días</item>
+        <item quantity="one">diariamente</item>
+        <item quantity="two">cada %d días</item>
+        <item quantity="few">cada %d días</item>
+        <item quantity="many">cada %d días</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Cada %1$d semanas, los %2$s</item>
+        <item quantity="one">Semanalmente, los %2$s</item>
+        <item quantity="two">Cada %1$d semanas, los %2$s</item>
+        <item quantity="few">Cada %1$d semanas, los %2$s</item>
+        <item quantity="many">Cada %1$d semanas, los %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">cada %1$d semanas, los %2$s</item>
+        <item quantity="one">semanalmente, los %2$s</item>
+        <item quantity="two">cada %1$d semanas, los %2$s</item>
+        <item quantity="few">cada %1$d semanas, los %2$s</item>
+        <item quantity="many">cada %1$d semanas, los %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Cada %1$d meses</item>
+        <item quantity="one">Mensualmente</item>
+        <item quantity="two">Cada %1$d meses</item>
+        <item quantity="few">Cada %1$d meses</item>
+        <item quantity="many">Cada %1$d meses</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">cada %1$d meses</item>
+        <item quantity="one">mensualmente</item>
+        <item quantity="two">cada %1$d meses</item>
+        <item quantity="few">cada %1$d meses</item>
+        <item quantity="many">cada %1$d meses</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Cada %1$d años</item>
+        <item quantity="one">Anualmente</item>
+        <item quantity="two">Cada %1$d años</item>
+        <item quantity="few">Cada %1$d años</item>
+        <item quantity="many">Cada %1$d años</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">cada %1$d años</item>
+        <item quantity="one">anualmente</item>
+        <item quantity="two">cada %1$d años</item>
+        <item quantity="few">cada %1$d años</item>
+        <item quantity="many">cada %1$d años</item>
+    </plurals>
+    <plurals name="n_more">
+        <item quantity="other">y %d más</item>
+        <item quantity="one">y %d más</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">Se archivaron %d notas.</item>
+        <item quantity="one">Se archivó la nota.</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d notas no archivadas</item>
+        <item quantity="one">Nota no archivada</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">¿Eliminar %d notas definitivamente?</item>
+        <item quantity="one">¿Eliminar la nota definitivamente?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">Se borraron %d notas</item>
+        <item quantity="one">Se borró la nota</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">Se restauraron %d notas.</item>
+        <item quantity="one">Se restauró la nota.</item>
+    </plurals>
+    <plurals name="item_deleted">
+        <item quantity="other">Se borraron %d elementos.</item>
+        <item quantity="one">Se borró el elemento.</item>
+    </plurals>
+    <plurals name="item_restored">
+        <item quantity="other">Se restauraron %d elementos.</item>
+        <item quantity="one">Se restauró el elemento.</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">y %d más</item>
+        <item quantity="one">y %d más</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d elementos</item>
+        <item quantity="one">%d elemento</item>
+    </plurals>
+    <plurals name="duration_minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="duration_second">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d recordatorios</item>
+        <item quantity="one">%d recordatorio</item>
+    </plurals>
+</resources>

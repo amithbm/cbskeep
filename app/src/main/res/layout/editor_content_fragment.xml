@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/editor_content_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.keep.ui.EditorRecyclerView android:id="@id/editor_list_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/note_body_hint" />
+    <fragment android:name="com.google.android.keep.editor.ViolatorFragment" android:id="@id/violator_fragment" style="@style/EditorViolatorFragmentStyle" />
+</FrameLayout>
